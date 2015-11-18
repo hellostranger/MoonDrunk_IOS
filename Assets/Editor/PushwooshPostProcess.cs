@@ -8,8 +8,7 @@ using UnityEditor.iOS.Xcode;
 using System.IO;
 
 public class PushwooshPostProcess : MonoBehaviour{
-	[PostProcessBuildAttribute(0)]
-
+	[PostProcessBuild]
 	public static void OnPostProcessBuild(BuildTarget buildTarget, string path)
 	{
 		#if UNITY_IOS
