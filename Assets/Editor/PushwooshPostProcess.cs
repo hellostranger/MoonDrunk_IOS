@@ -1,7 +1,5 @@
 ﻿using UnityEngine;
-#if UNITY_EDITOR
 using UnityEditor;
-#endif
 using UnityEditor.Callbacks;
 using System.Collections;
 #if UNITY_IOS
@@ -9,7 +7,6 @@ using UnityEditor.iOS.Xcode;
 #endif
 using System.IO;
 
-#if UNITY_EDITOR
 public class PushwooshPostProcess : MonoBehaviour{
 	[PostProcessBuildAttribute(0)]
 
@@ -36,4 +33,3 @@ public class PushwooshPostProcess : MonoBehaviour{
 		#endif
 	}
 }
-#endif
