@@ -9,11 +9,13 @@ using UnityEditor.iOS.Xcode;
 #endif
 using System.IO;
 
+#if UNITY_EDITOR
 public class PushwooshPostProcess : MonoBehaviour{
 	[PostProcessBuildAttribute(0)]
+
 	public static void OnPostProcessBuild(BuildTarget buildTarget, string path)
 	{
-		#if UNITY_IOS && UNITY_EDITOR
+		#if UNITY_IOS
 		if (buildTarget == BuildTarget.iOS) {
 			string projPath = path + "/Unity-iPhone.xcodeproj/project.pbxproj";
 						
@@ -34,3 +36,4 @@ public class PushwooshPostProcess : MonoBehaviour{
 		#endif
 	}
 }
+#endif
