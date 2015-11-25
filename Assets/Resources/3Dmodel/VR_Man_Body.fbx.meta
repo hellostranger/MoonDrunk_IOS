@@ -1,0 +1,230 @@
+fileFormatVersion: 2
+guid: b879afc056afafa46990a8b5d73e7a30
+timeCreated: 1448001872
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: albow
+    100002: albow_2
+    100004: CHEST
+    100006: CHEST_2
+    100008: chin
+    100010: DN
+    100012: HAND
+    100014: hand_tip
+    100016: head
+    100018: head02
+    100020: head_tip
+    100022: MAN
+    100024: MAN02
+    100026: MAN_crtl_KEY
+    100028: myOctaneSettings
+    100030: neck
+    100032: neck_2
+    100034: ROOT
+    100036: ROOT_KEY
+    100038: shoulder
+    100040: shoulder_2
+    100042: SuperAverageMan_low_003
+    100044: SuperAverageMan_low_007
+    100046: SuperAverageMan_low_008
+    100048: SuperAverageMan_low_009
+    100050: UP
+    100052: //RootNode
+    100054: wrist
+    100056: wrist_2
+    400000: albow
+    400002: albow_2
+    400004: CHEST
+    400006: CHEST_2
+    400008: chin
+    400010: DN
+    400012: HAND
+    400014: hand_tip
+    400016: head
+    400018: head02
+    400020: head_tip
+    400022: MAN
+    400024: MAN02
+    400026: MAN_crtl_KEY
+    400028: myOctaneSettings
+    400030: neck
+    400032: neck_2
+    400034: ROOT
+    400036: ROOT_KEY
+    400038: shoulder
+    400040: shoulder_2
+    400042: SuperAverageMan_low_003
+    400044: SuperAverageMan_low_007
+    400046: SuperAverageMan_low_008
+    400048: SuperAverageMan_low_009
+    400050: UP
+    400052: //RootNode
+    400054: wrist
+    400056: wrist_2
+    2300000: SuperAverageMan_low_003
+    2300002: SuperAverageMan_low_007
+    2300004: SuperAverageMan_low_008
+    2300006: SuperAverageMan_low_009
+    3300000: SuperAverageMan_low_003
+    3300002: SuperAverageMan_low_007
+    3300004: SuperAverageMan_low_008
+    3300006: SuperAverageMan_low_009
+    4300000: UP
+    4300002: SuperAverageMan_low_003
+    4300004: SuperAverageMan_low_007
+    4300006: SuperAverageMan_low_008
+    4300008: SuperAverageMan_low_009
+    7400000: C4D Animation Take
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: UP
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: C4D Animation Take
+      takeName: C4D Animation Take
+      firstFrame: 0
+      lastFrame: 90
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: MAN
+        weight: 1
+      - path: MAN/DN
+        weight: 1
+      - path: MAN/DN/SuperAverageMan_low_003
+        weight: 1
+      - path: MAN/DN/SuperAverageMan_low_007
+        weight: 1
+      - path: MAN/DN/SuperAverageMan_low_008
+        weight: 1
+      - path: MAN/DN/SuperAverageMan_low_009
+        weight: 1
+      - path: MAN/MAN02
+        weight: 1
+      - path: MAN/MAN02/UP
+        weight: 1
+      - path: MAN/MAN02/UP/ROOT
+        weight: 1
+      - path: MAN/MAN02/UP/ROOT/CHEST_2
+        weight: 1
+      - path: MAN/MAN02/UP/ROOT/CHEST_2/neck_2
+        weight: 1
+      - path: MAN/MAN02/UP/ROOT/CHEST_2/neck_2/head
+        weight: 1
+      - path: MAN/MAN02/UP/ROOT/CHEST_2/neck_2/head/chin
+        weight: 1
+      - path: MAN/MAN02/UP/ROOT/CHEST_2/neck_2/head/head02
+        weight: 1
+      - path: MAN/MAN02/UP/ROOT/CHEST_2/neck_2/head/head02/head_tip
+        weight: 1
+      - path: MAN/MAN02/UP/ROOT/CHEST_2/shoulder_2
+        weight: 1
+      - path: MAN/MAN02/UP/ROOT/CHEST_2/shoulder_2/albow_2
+        weight: 1
+      - path: MAN/MAN02/UP/ROOT/CHEST_2/shoulder_2/albow_2/wrist_2
+        weight: 1
+      - path: MAN/MAN02/UP/ROOT/CHEST_2/shoulder_2/albow_2/wrist_2/HAND
+        weight: 1
+      - path: MAN/MAN02/UP/ROOT/CHEST_2/shoulder_2/albow_2/wrist_2/HAND/hand_tip
+        weight: 1
+      - path: MAN/MAN_crtl_KEY
+        weight: 1
+      - path: MAN/MAN_crtl_KEY/ROOT_KEY
+        weight: 1
+      - path: MAN/MAN_crtl_KEY/ROOT_KEY/CHEST
+        weight: 1
+      - path: MAN/MAN_crtl_KEY/ROOT_KEY/CHEST/neck
+        weight: 1
+      - path: MAN/MAN_crtl_KEY/ROOT_KEY/CHEST/shoulder
+        weight: 1
+      - path: MAN/MAN_crtl_KEY/ROOT_KEY/CHEST/shoulder/albow
+        weight: 1
+      - path: MAN/MAN_crtl_KEY/ROOT_KEY/CHEST/shoulder/albow/wrist
+        weight: 1
+      - path: myOctaneSettings
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 10
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
