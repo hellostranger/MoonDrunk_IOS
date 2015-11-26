@@ -1,8 +1,10 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace />
-  <MonoDevelop.Ide.Workbench ActiveDocument="..\..\MoonDrunk_Proto\MoonDrunk_Proto\Assets\Scripts\checkStart.cs">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/CheckVideo.cs">
     <Files>
-      <File FileName="..\..\MoonDrunk_Proto\MoonDrunk_Proto\Assets\Scripts\checkStart.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/CheckInteraction.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/CheckMode.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/CheckVideo.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
