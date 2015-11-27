@@ -8,11 +8,14 @@ public class CheckInteraction : MonoBehaviour {
 	public static bool stateMoon = false;
 	public static bool stateShadow = false;
 	public static bool stateCup = false;
+
 	// Use this for initialization
 	void Start () {
 		stateMoon = false;
 		stateShadow = false;
 		stateCup = false;
+
+
 	}
 	
 	// Update is called once per frame

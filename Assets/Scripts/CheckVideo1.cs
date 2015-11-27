@@ -5,7 +5,7 @@ public class CheckVideo1 : MonoBehaviour {
 	public MediaPlayerCtrl mpc;
 	// Use this for initialization
 	void Start () {
-		
+		StaticVars.GetInstance.NarrSound();
 	}
 	
 	// Update is called once per frame

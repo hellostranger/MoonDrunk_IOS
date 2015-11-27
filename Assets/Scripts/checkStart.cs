@@ -5,13 +5,15 @@ public class checkStart : MonoBehaviour {
 	public GameObject go;
 	public MediaPlayerCtrl mpc;
 	//public Animator ani;
-	private bool timer;
 	public float delay = 2;
-	private float stTime;
 	public Material redPointer;
 	public Material blackPointer;
 	public UnityEngine.UI.Image progress;
 	public float per;
+
+	private float stTime;
+	private bool timer;
+	private AudioSource asc;
 	// Use this for initialization
 	void Start () {
 		progress.fillAmount = 0;
@@ -26,8 +28,9 @@ public class checkStart : MonoBehaviour {
 				GameObject.Destroy(GameObject.Find("Pointer"));
 				//ani.Play("move");
 				mpc.Play();
-				StaticVars.GetInstance.SoundOn ();
+				StaticVars.GetInstance.IntroSound();
 				timer = false;
+
 			}else{
 				per = (Time.time - stTime)/delay;
 				progress.fillAmount = per;

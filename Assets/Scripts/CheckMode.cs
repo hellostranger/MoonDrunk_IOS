@@ -14,7 +14,8 @@ public class CheckMode : MonoBehaviour {
 			cb.VRModeEnabled = false;
 		}
 	}
-	
+
+
 	// Update is called once per frame
 	void Update () {
 	

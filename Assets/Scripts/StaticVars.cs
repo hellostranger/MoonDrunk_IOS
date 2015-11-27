@@ -33,9 +33,19 @@ public class StaticVars :MonoBehaviour  {
 	void Update () {
 		//Debug.Log ("selectedStroy :" + selectedStroy);
 	}
-
-	public void SoundOn()
+	public void NarrSound()
 	{
+		AudioSource asc = gameObject.AddComponent<AudioSource> ();
+		asc.clip = Resources.Load ("audios/narration") as AudioClip;
+		asc.Play ();
+	}
+
+	public void IntroSound()
+	{
+		AudioSource asc = gameObject.AddComponent<AudioSource> ();
+		asc.clip = Resources.Load ("audios/intro_23") as AudioClip;
+		asc.Play ();
+		/*
 		Debug.Log ("SoundOn");
 		if (!asc) {
 			asc = gameObject.AddComponent<AudioSource> ();
@@ -45,12 +55,13 @@ public class StaticVars :MonoBehaviour  {
 		}
 		if ( soundType )
 		{
-			asc.clip = Resources.Load ("narration") as AudioClip;
+			asc.clip = Resources.Load ("audios/narration") as AudioClip;
 		}else{
-			asc.clip = Resources.Load ("letitbe") as AudioClip;
+			asc.clip = Resources.Load ("audios/narration") as AudioClip;
 		}
 		soundType = !soundType;
 		asc.Play ();
+		*/
 	}
 
 	private int selectedStroy;
