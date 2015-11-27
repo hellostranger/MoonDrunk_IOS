@@ -1,0 +1,282 @@
+fileFormatVersion: 2
+guid: 536205f1871329049b9c311980786194
+timeCreated: 1448001846
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: character
+    100002: Head
+    100004: Head_2
+    100006: Head_tip
+    100008: L_Arm
+    100010: L_Arm_Pole
+    100012: L_Foot
+    100014: L_Foot_Goal
+    100016: L_Foot_Goal_2
+    100018: L_Hand
+    100020: L_Hand_Goal
+    100022: L_Hand_Tip
+    100024: L_Hand_Tip_Goal
+    100026: L_Lower_Leg_01
+    100028: L_Lower_Leg_02
+    100030: L_Lower_Leg_03
+    100032: L_Shoulder_01
+    100034: L_Shoulder_02
+    100036: L_Shoulder_03
+    100038: L_Upper_Leg
+    100040: L_Upper_Leg_Pole
+    100042: Neck
+    100044: Pervis
+    100046: R_Arm
+    100048: R_Arm_Pole
+    100050: R_Foot
+    100052: R_Foot_Goal
+    100054: R_Foot_Goal_2
+    100056: R_Hand
+    100058: R_Hand_Goal
+    100060: R_Hand_Tip
+    100062: R_Hand_Tip_Goal
+    100064: R_Lower_Leg_01
+    100066: R_Lower_Leg_02
+    100068: R_Lower_Leg_03
+    100070: R_Shoulder_01
+    100072: R_Shoulder_02
+    100074: R_Shoulder_03
+    100076: R_Upper_Leg
+    100078: R_Upper_Leg_Pole
+    100080: //RootNode
+    100082: Spine_01
+    100084: Spine_02
+    100086: Spine_03
+    100088: Subdivision_Surface
+    400000: character
+    400002: Head
+    400004: Head_2
+    400006: Head_tip
+    400008: L_Arm
+    400010: L_Arm_Pole
+    400012: L_Foot
+    400014: L_Foot_Goal
+    400016: L_Foot_Goal_2
+    400018: L_Hand
+    400020: L_Hand_Goal
+    400022: L_Hand_Tip
+    400024: L_Hand_Tip_Goal
+    400026: L_Lower_Leg_01
+    400028: L_Lower_Leg_02
+    400030: L_Lower_Leg_03
+    400032: L_Shoulder_01
+    400034: L_Shoulder_02
+    400036: L_Shoulder_03
+    400038: L_Upper_Leg
+    400040: L_Upper_Leg_Pole
+    400042: Neck
+    400044: Pervis
+    400046: R_Arm
+    400048: R_Arm_Pole
+    400050: R_Foot
+    400052: R_Foot_Goal
+    400054: R_Foot_Goal_2
+    400056: R_Hand
+    400058: R_Hand_Goal
+    400060: R_Hand_Tip
+    400062: R_Hand_Tip_Goal
+    400064: R_Lower_Leg_01
+    400066: R_Lower_Leg_02
+    400068: R_Lower_Leg_03
+    400070: R_Shoulder_01
+    400072: R_Shoulder_02
+    400074: R_Shoulder_03
+    400076: R_Upper_Leg
+    400078: R_Upper_Leg_Pole
+    400080: //RootNode
+    400082: Spine_01
+    400084: Spine_02
+    400086: Spine_03
+    400088: Subdivision_Surface
+    4300000: character
+    7400000: C4D Animation Take
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: character
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: C4D Animation Take
+      takeName: C4D Animation Take
+      firstFrame: 0
+      lastFrame: 30
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: L_Foot_Goal
+        weight: 1
+      - path: L_Foot_Goal/L_Foot_Goal_2
+        weight: 1
+      - path: Pervis
+        weight: 1
+      - path: Pervis/Head
+        weight: 1
+      - path: Pervis/L_Arm_Pole
+        weight: 1
+      - path: Pervis/L_Hand_Goal
+        weight: 1
+      - path: Pervis/L_Hand_Goal/L_Hand_Tip_Goal
+        weight: 1
+      - path: Pervis/L_Upper_Leg_Pole
+        weight: 1
+      - path: Pervis/R_Arm_Pole
+        weight: 1
+      - path: Pervis/R_Hand_Goal
+        weight: 1
+      - path: Pervis/R_Hand_Goal/R_Hand_Tip_Goal
+        weight: 1
+      - path: Pervis/R_Upper_Leg_Pole
+        weight: 1
+      - path: R_Foot_Goal
+        weight: 1
+      - path: R_Foot_Goal/R_Foot_Goal_2
+        weight: 1
+      - path: Spine_01
+        weight: 1
+      - path: Spine_01/L_Upper_Leg
+        weight: 1
+      - path: Spine_01/L_Upper_Leg/L_Lower_Leg_01
+        weight: 1
+      - path: Spine_01/L_Upper_Leg/L_Lower_Leg_01/L_Lower_Leg_02
+        weight: 1
+      - path: Spine_01/L_Upper_Leg/L_Lower_Leg_01/L_Lower_Leg_02/L_Lower_Leg_03
+        weight: 1
+      - path: Spine_01/L_Upper_Leg/L_Lower_Leg_01/L_Lower_Leg_02/L_Lower_Leg_03/L_Foot
+        weight: 1
+      - path: Spine_01/R_Upper_Leg
+        weight: 1
+      - path: Spine_01/R_Upper_Leg/R_Lower_Leg_01
+        weight: 1
+      - path: Spine_01/R_Upper_Leg/R_Lower_Leg_01/R_Lower_Leg_02
+        weight: 1
+      - path: Spine_01/R_Upper_Leg/R_Lower_Leg_01/R_Lower_Leg_02/R_Lower_Leg_03
+        weight: 1
+      - path: Spine_01/R_Upper_Leg/R_Lower_Leg_01/R_Lower_Leg_02/R_Lower_Leg_03/R_Foot
+        weight: 1
+      - path: Spine_01/Spine_02
+        weight: 1
+      - path: Spine_01/Spine_02/Spine_03
+        weight: 1
+      - path: Spine_01/Spine_02/Spine_03/L_Arm
+        weight: 1
+      - path: Spine_01/Spine_02/Spine_03/L_Arm/L_Shoulder_01
+        weight: 1
+      - path: Spine_01/Spine_02/Spine_03/L_Arm/L_Shoulder_01/L_Shoulder_02
+        weight: 1
+      - path: Spine_01/Spine_02/Spine_03/L_Arm/L_Shoulder_01/L_Shoulder_02/L_Shoulder_03
+        weight: 1
+      - path: Spine_01/Spine_02/Spine_03/L_Arm/L_Shoulder_01/L_Shoulder_02/L_Shoulder_03/L_Hand
+        weight: 1
+      - path: Spine_01/Spine_02/Spine_03/L_Arm/L_Shoulder_01/L_Shoulder_02/L_Shoulder_03/L_Hand/L_Hand_Tip
+        weight: 1
+      - path: Spine_01/Spine_02/Spine_03/Neck
+        weight: 1
+      - path: Spine_01/Spine_02/Spine_03/Neck/Head_2
+        weight: 1
+      - path: Spine_01/Spine_02/Spine_03/Neck/Head_2/Head_tip
+        weight: 1
+      - path: Spine_01/Spine_02/Spine_03/R_Arm
+        weight: 1
+      - path: Spine_01/Spine_02/Spine_03/R_Arm/R_Shoulder_01
+        weight: 1
+      - path: Spine_01/Spine_02/Spine_03/R_Arm/R_Shoulder_01/R_Shoulder_02
+        weight: 1
+      - path: Spine_01/Spine_02/Spine_03/R_Arm/R_Shoulder_01/R_Shoulder_02/R_Shoulder_03
+        weight: 1
+      - path: Spine_01/Spine_02/Spine_03/R_Arm/R_Shoulder_01/R_Shoulder_02/R_Shoulder_03/R_Hand
+        weight: 1
+      - path: Spine_01/Spine_02/Spine_03/R_Arm/R_Shoulder_01/R_Shoulder_02/R_Shoulder_03/R_Hand/R_Hand_Tip
+        weight: 1
+      - path: Subdivision_Surface
+        weight: 1
+      - path: Subdivision_Surface/character
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .5
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
