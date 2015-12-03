@@ -4,6 +4,7 @@ using System.Collections;
 public class CheckInteraction : MonoBehaviour {
 	public MediaPlayerCtrl mpc;
 	public Animation anim;
+	public GameObject Shadow;
 
 	public static bool stateMoon = false;
 	public static bool stateShadow = false;
@@ -15,7 +16,8 @@ public class CheckInteraction : MonoBehaviour {
 		stateShadow = false;
 		stateCup = false;
 
-
+		//그림자 지우기
+		Shadow.SetActive (false);
 	}
 	
 	// Update is called once per frame

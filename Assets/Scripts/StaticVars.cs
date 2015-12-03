@@ -35,16 +35,18 @@ public class StaticVars :MonoBehaviour  {
 	}
 	public void NarrSound()
 	{
-		AudioSource asc = gameObject.AddComponent<AudioSource> ();
-		asc.clip = Resources.Load ("audios/narration") as AudioClip;
-		asc.Play ();
+		introASC.Stop ();
+
+		narrASC = gameObject.AddComponent<AudioSource> ();
+		narrASC.clip = Resources.Load ("audios/narration") as AudioClip;
+		narrASC.Play ();
 	}
 
 	public void IntroSound()
 	{
-		AudioSource asc = gameObject.AddComponent<AudioSource> ();
-		asc.clip = Resources.Load ("audios/intro_23") as AudioClip;
-		asc.Play ();
+		introASC = gameObject.AddComponent<AudioSource> ();
+		introASC.clip = Resources.Load ("audios/narration") as AudioClip;
+		introASC.Play ();
 		/*
 		Debug.Log ("SoundOn");
 		if (!asc) {
@@ -63,6 +65,8 @@ public class StaticVars :MonoBehaviour  {
 		asc.Play ();
 		*/
 	}
+	private AudioSource introASC;
+	private AudioSource narrASC;
 
 	private int selectedStroy;
 	private int selectedScreen;

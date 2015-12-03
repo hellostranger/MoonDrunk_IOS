@@ -82,6 +82,7 @@
      <Compile Include="Assets\Scripts\CheckMode.cs" />
      <Compile Include="Assets\Scripts\CheckMoon.cs" />
      <Compile Include="Assets\Scripts\CheckShadow.cs" />
+     <Compile Include="Assets\Scripts\CheckText.cs" />
      <Compile Include="Assets\Scripts\CheckVideo.cs" />
      <Compile Include="Assets\Scripts\CheckVideo1.cs" />
      <Compile Include="Assets\Scripts\CheckVideo2.cs" />

@@ -1,0 +1,2401 @@
+fileFormatVersion: 2
+guid: 146fcaebf5bddf14d87f124930c6c77c
+timeCreated: 1449116550
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: 1_M
+    100002: 2_M
+    100004: 3_M
+    100006: 4_1
+    100008: 5_2
+    100010: 6_3
+    100012: 7_1
+    100014: 8_2
+    100016: 9_3
+    100018: ANIMATION_01
+    100020: ANIMATION_01_2
+    100022: ANIMATION_01_M
+    100024: ANIMATION_02
+    100026: ANIMATION_02_2
+    100028: ANIMATION_02_M
+    100030: ANIMATION_03
+    100032: ANIMATION_03_2
+    100034: ANIMATION_03_M
+    100036: Head
+    100038: Head_2
+    100040: Head_3
+    100042: Head_4
+    100044: Head_5
+    100046: Head_6
+    100048: Head_7
+    100050: Head_8
+    100052: Head_9
+    100054: L_Arm
+    100056: L_Arm_01
+    100058: L_Arm_01_2
+    100060: L_Arm_01_3
+    100062: L_Arm_01_4
+    100064: L_Arm_01_5
+    100066: L_Arm_01_6
+    100068: L_Arm_01_7
+    100070: L_Arm_01_8
+    100072: L_Arm_01_9
+    100074: L_Arm_02
+    100076: L_Arm_02_2
+    100078: L_Arm_02_3
+    100080: L_Arm_02_4
+    100082: L_Arm_02_5
+    100084: L_Arm_02_6
+    100086: L_Arm_02_7
+    100088: L_Arm_02_8
+    100090: L_Arm_02_9
+    100092: L_Arm_03
+    100094: L_Arm_03_2
+    100096: L_Arm_03_3
+    100098: L_Arm_03_4
+    100100: L_Arm_03_5
+    100102: L_Arm_03_6
+    100104: L_Arm_03_7
+    100106: L_Arm_03_8
+    100108: L_Arm_03_9
+    100110: L_Arm_04
+    100112: L_Arm_04_2
+    100114: L_Arm_04_3
+    100116: L_Arm_04_4
+    100118: L_Arm_04_5
+    100120: L_Arm_04_6
+    100122: L_Arm_04_7
+    100124: L_Arm_04_8
+    100126: L_Arm_04_9
+    100128: L_Arm_05
+    100130: L_Arm_05_2
+    100132: L_Arm_05_3
+    100134: L_Arm_05_4
+    100136: L_Arm_05_5
+    100138: L_Arm_05_6
+    100140: L_Arm_05_7
+    100142: L_Arm_05_8
+    100144: L_Arm_05_9
+    100146: L_Arm_2
+    100148: L_Arm_3
+    100150: L_Arm_4
+    100152: L_Arm_5
+    100154: L_Arm_6
+    100156: L_Arm_7
+    100158: L_Arm_8
+    100160: L_Arm_9
+    100162: L_Arm_Pole
+    100164: L_Arm_Pole_2
+    100166: L_Arm_Pole_3
+    100168: L_Arm_Pole_4
+    100170: L_Arm_Pole_5
+    100172: L_Arm_Pole_6
+    100174: L_Arm_Pole_7
+    100176: L_Arm_Pole_8
+    100178: L_Arm_Pole_9
+    100180: L_Leg
+    100182: L_Leg_01
+    100184: L_Leg_01_2
+    100186: L_Leg_01_3
+    100188: L_Leg_01_4
+    100190: L_Leg_01_5
+    100192: L_Leg_01_6
+    100194: L_Leg_01_7
+    100196: L_Leg_01_8
+    100198: L_Leg_01_9
+    100200: L_Leg_02
+    100202: L_Leg_02_2
+    100204: L_Leg_02_3
+    100206: L_Leg_02_4
+    100208: L_Leg_02_5
+    100210: L_Leg_02_6
+    100212: L_Leg_02_7
+    100214: L_Leg_02_8
+    100216: L_Leg_02_9
+    100218: L_Leg_03
+    100220: L_Leg_03_2
+    100222: L_Leg_03_3
+    100224: L_Leg_03_4
+    100226: L_Leg_03_5
+    100228: L_Leg_03_6
+    100230: L_Leg_03_7
+    100232: L_Leg_03_8
+    100234: L_Leg_03_9
+    100236: L_Leg_04
+    100238: L_Leg_04_2
+    100240: L_Leg_04_3
+    100242: L_Leg_04_4
+    100244: L_Leg_04_5
+    100246: L_Leg_04_6
+    100248: L_Leg_04_7
+    100250: L_Leg_04_8
+    100252: L_Leg_04_9
+    100254: L_Leg_05
+    100256: L_Leg_05_2
+    100258: L_Leg_05_3
+    100260: L_Leg_05_4
+    100262: L_Leg_05_5
+    100264: L_Leg_05_6
+    100266: L_Leg_05_7
+    100268: L_Leg_05_8
+    100270: L_Leg_05_9
+    100272: L_Leg_2
+    100274: L_Leg_3
+    100276: L_Leg_4
+    100278: L_Leg_5
+    100280: L_Leg_6
+    100282: L_Leg_7
+    100284: L_Leg_8
+    100286: L_Leg_9
+    100288: L_Leg_Pole
+    100290: L_Leg_Pole_2
+    100292: L_Leg_Pole_3
+    100294: L_Leg_Pole_4
+    100296: L_Leg_Pole_5
+    100298: L_Leg_Pole_6
+    100300: L_Leg_Pole_7
+    100302: L_Leg_Pole_8
+    100304: L_Leg_Pole_9
+    100306: Pervis
+    100308: Pervis_10
+    100310: Pervis_11
+    100312: Pervis_12
+    100314: Pervis_13
+    100316: Pervis_14
+    100318: Pervis_15
+    100320: Pervis_16
+    100322: Pervis_17
+    100324: Pervis_18
+    100326: Pervis_2
+    100328: Pervis_3
+    100330: Pervis_4
+    100332: Pervis_5
+    100334: Pervis_6
+    100336: Pervis_7
+    100338: Pervis_8
+    100340: Pervis_9
+    100342: Plane
+    100344: Plane_2
+    100346: Plane_3
+    100348: Plane_4
+    100350: Plane_5
+    100352: Plane_6
+    100354: Plane_7
+    100356: Plane_8
+    100358: Plane_9
+    100360: R_Arm
+    100362: R_Arm_01
+    100364: R_Arm_01_2
+    100366: R_Arm_01_3
+    100368: R_Arm_01_4
+    100370: R_Arm_01_5
+    100372: R_Arm_01_6
+    100374: R_Arm_01_7
+    100376: R_Arm_01_8
+    100378: R_Arm_01_9
+    100380: R_Arm_02
+    100382: R_Arm_02_2
+    100384: R_Arm_02_3
+    100386: R_Arm_02_4
+    100388: R_Arm_02_5
+    100390: R_Arm_02_6
+    100392: R_Arm_02_7
+    100394: R_Arm_02_8
+    100396: R_Arm_02_9
+    100398: R_Arm_03
+    100400: R_Arm_03_2
+    100402: R_Arm_03_3
+    100404: R_Arm_03_4
+    100406: R_Arm_03_5
+    100408: R_Arm_03_6
+    100410: R_Arm_03_7
+    100412: R_Arm_03_8
+    100414: R_Arm_03_9
+    100416: R_Arm_04
+    100418: R_Arm_04_2
+    100420: R_Arm_04_3
+    100422: R_Arm_04_4
+    100424: R_Arm_04_5
+    100426: R_Arm_04_6
+    100428: R_Arm_04_7
+    100430: R_Arm_04_8
+    100432: R_Arm_04_9
+    100434: R_Arm_05
+    100436: R_Arm_05_2
+    100438: R_Arm_05_3
+    100440: R_Arm_05_4
+    100442: R_Arm_05_5
+    100444: R_Arm_05_6
+    100446: R_Arm_05_7
+    100448: R_Arm_05_8
+    100450: R_Arm_05_9
+    100452: R_Arm_2
+    100454: R_Arm_3
+    100456: R_Arm_4
+    100458: R_Arm_5
+    100460: R_Arm_6
+    100462: R_Arm_7
+    100464: R_Arm_8
+    100466: R_Arm_9
+    100468: R_Arm_Pole
+    100470: R_Arm_Pole_2
+    100472: R_Arm_Pole_3
+    100474: R_Arm_Pole_4
+    100476: R_Arm_Pole_5
+    100478: R_Arm_Pole_6
+    100480: R_Arm_Pole_7
+    100482: R_Arm_Pole_8
+    100484: R_Arm_Pole_9
+    100486: R_Leg
+    100488: R_Leg_01
+    100490: R_Leg_01_2
+    100492: R_Leg_01_3
+    100494: R_Leg_01_4
+    100496: R_Leg_01_5
+    100498: R_Leg_01_6
+    100500: R_Leg_01_7
+    100502: R_Leg_01_8
+    100504: R_Leg_01_9
+    100506: R_Leg_02
+    100508: R_Leg_02_2
+    100510: R_Leg_02_3
+    100512: R_Leg_02_4
+    100514: R_Leg_02_5
+    100516: R_Leg_02_6
+    100518: R_Leg_02_7
+    100520: R_Leg_02_8
+    100522: R_Leg_02_9
+    100524: R_Leg_03
+    100526: R_Leg_03_2
+    100528: R_Leg_03_3
+    100530: R_Leg_03_4
+    100532: R_Leg_03_5
+    100534: R_Leg_03_6
+    100536: R_Leg_03_7
+    100538: R_Leg_03_8
+    100540: R_Leg_03_9
+    100542: R_Leg_04
+    100544: R_Leg_04_2
+    100546: R_Leg_04_3
+    100548: R_Leg_04_4
+    100550: R_Leg_04_5
+    100552: R_Leg_04_6
+    100554: R_Leg_04_7
+    100556: R_Leg_04_8
+    100558: R_Leg_04_9
+    100560: R_Leg_05
+    100562: R_Leg_05_2
+    100564: R_Leg_05_3
+    100566: R_Leg_05_4
+    100568: R_Leg_05_5
+    100570: R_Leg_05_6
+    100572: R_Leg_05_7
+    100574: R_Leg_05_8
+    100576: R_Leg_05_9
+    100578: R_Leg_2
+    100580: R_Leg_3
+    100582: R_Leg_4
+    100584: R_Leg_5
+    100586: R_Leg_6
+    100588: R_Leg_7
+    100590: R_Leg_8
+    100592: R_Leg_9
+    100594: R_Leg_Pole
+    100596: R_Leg_Pole_2
+    100598: R_Leg_Pole_3
+    100600: R_Leg_Pole_4
+    100602: R_Leg_Pole_5
+    100604: R_Leg_Pole_6
+    100606: R_Leg_Pole_7
+    100608: R_Leg_Pole_8
+    100610: R_Leg_Pole_9
+    100612: rotation_01
+    100614: rotation_01_2
+    100616: rotation_01_M
+    100618: rotation_02
+    100620: rotation_02_2
+    100622: rotation_02_M
+    100624: rotation_03
+    100626: rotation_03_2
+    100628: rotation_03_M
+    100630: //RootNode
+    100632: shadows
+    100634: Spine_01
+    100636: Spine_01_2
+    100638: Spine_01_3
+    100640: Spine_01_4
+    100642: Spine_01_5
+    100644: Spine_01_6
+    100646: Spine_01_7
+    100648: Spine_01_8
+    100650: Spine_01_9
+    100652: Spine_02
+    100654: Spine_02_2
+    100656: Spine_02_3
+    100658: Spine_02_4
+    100660: Spine_02_5
+    100662: Spine_02_6
+    100664: Spine_02_7
+    100666: Spine_02_8
+    100668: Spine_02_9
+    100670: Spine_03
+    100672: Spine_03_2
+    100674: Spine_03_3
+    100676: Spine_03_4
+    100678: Spine_03_5
+    100680: Spine_03_6
+    100682: Spine_03_7
+    100684: Spine_03_8
+    100686: Spine_03_9
+    100688: Spine_04
+    100690: Spine_04_2
+    100692: Spine_04_3
+    100694: Spine_04_4
+    100696: Spine_04_5
+    100698: Spine_04_6
+    100700: Spine_04_7
+    100702: Spine_04_8
+    100704: Spine_04_9
+    100706: Spine_05
+    100708: Spine_05_2
+    100710: Spine_05_3
+    100712: Spine_05_4
+    100714: Spine_05_5
+    100716: Spine_05_6
+    100718: Spine_05_7
+    100720: Spine_05_8
+    100722: Spine_05_9
+    100724: Subdivision_Surface
+    100726: Subdivision_Surface_2
+    100728: Subdivision_Surface_3
+    100730: Subdivision_Surface_4
+    100732: Subdivision_Surface_5
+    100734: Subdivision_Surface_6
+    100736: Subdivision_Surface_7
+    100738: Subdivision_Surface_8
+    100740: Subdivision_Surface_9
+    400000: 1_M
+    400002: 2_M
+    400004: 3_M
+    400006: 4_1
+    400008: 5_2
+    400010: 6_3
+    400012: 7_1
+    400014: 8_2
+    400016: 9_3
+    400018: ANIMATION_01
+    400020: ANIMATION_01_2
+    400022: ANIMATION_01_M
+    400024: ANIMATION_02
+    400026: ANIMATION_02_2
+    400028: ANIMATION_02_M
+    400030: ANIMATION_03
+    400032: ANIMATION_03_2
+    400034: ANIMATION_03_M
+    400036: Head
+    400038: Head_2
+    400040: Head_3
+    400042: Head_4
+    400044: Head_5
+    400046: Head_6
+    400048: Head_7
+    400050: Head_8
+    400052: Head_9
+    400054: L_Arm
+    400056: L_Arm_01
+    400058: L_Arm_01_2
+    400060: L_Arm_01_3
+    400062: L_Arm_01_4
+    400064: L_Arm_01_5
+    400066: L_Arm_01_6
+    400068: L_Arm_01_7
+    400070: L_Arm_01_8
+    400072: L_Arm_01_9
+    400074: L_Arm_02
+    400076: L_Arm_02_2
+    400078: L_Arm_02_3
+    400080: L_Arm_02_4
+    400082: L_Arm_02_5
+    400084: L_Arm_02_6
+    400086: L_Arm_02_7
+    400088: L_Arm_02_8
+    400090: L_Arm_02_9
+    400092: L_Arm_03
+    400094: L_Arm_03_2
+    400096: L_Arm_03_3
+    400098: L_Arm_03_4
+    400100: L_Arm_03_5
+    400102: L_Arm_03_6
+    400104: L_Arm_03_7
+    400106: L_Arm_03_8
+    400108: L_Arm_03_9
+    400110: L_Arm_04
+    400112: L_Arm_04_2
+    400114: L_Arm_04_3
+    400116: L_Arm_04_4
+    400118: L_Arm_04_5
+    400120: L_Arm_04_6
+    400122: L_Arm_04_7
+    400124: L_Arm_04_8
+    400126: L_Arm_04_9
+    400128: L_Arm_05
+    400130: L_Arm_05_2
+    400132: L_Arm_05_3
+    400134: L_Arm_05_4
+    400136: L_Arm_05_5
+    400138: L_Arm_05_6
+    400140: L_Arm_05_7
+    400142: L_Arm_05_8
+    400144: L_Arm_05_9
+    400146: L_Arm_2
+    400148: L_Arm_3
+    400150: L_Arm_4
+    400152: L_Arm_5
+    400154: L_Arm_6
+    400156: L_Arm_7
+    400158: L_Arm_8
+    400160: L_Arm_9
+    400162: L_Arm_Pole
+    400164: L_Arm_Pole_2
+    400166: L_Arm_Pole_3
+    400168: L_Arm_Pole_4
+    400170: L_Arm_Pole_5
+    400172: L_Arm_Pole_6
+    400174: L_Arm_Pole_7
+    400176: L_Arm_Pole_8
+    400178: L_Arm_Pole_9
+    400180: L_Leg
+    400182: L_Leg_01
+    400184: L_Leg_01_2
+    400186: L_Leg_01_3
+    400188: L_Leg_01_4
+    400190: L_Leg_01_5
+    400192: L_Leg_01_6
+    400194: L_Leg_01_7
+    400196: L_Leg_01_8
+    400198: L_Leg_01_9
+    400200: L_Leg_02
+    400202: L_Leg_02_2
+    400204: L_Leg_02_3
+    400206: L_Leg_02_4
+    400208: L_Leg_02_5
+    400210: L_Leg_02_6
+    400212: L_Leg_02_7
+    400214: L_Leg_02_8
+    400216: L_Leg_02_9
+    400218: L_Leg_03
+    400220: L_Leg_03_2
+    400222: L_Leg_03_3
+    400224: L_Leg_03_4
+    400226: L_Leg_03_5
+    400228: L_Leg_03_6
+    400230: L_Leg_03_7
+    400232: L_Leg_03_8
+    400234: L_Leg_03_9
+    400236: L_Leg_04
+    400238: L_Leg_04_2
+    400240: L_Leg_04_3
+    400242: L_Leg_04_4
+    400244: L_Leg_04_5
+    400246: L_Leg_04_6
+    400248: L_Leg_04_7
+    400250: L_Leg_04_8
+    400252: L_Leg_04_9
+    400254: L_Leg_05
+    400256: L_Leg_05_2
+    400258: L_Leg_05_3
+    400260: L_Leg_05_4
+    400262: L_Leg_05_5
+    400264: L_Leg_05_6
+    400266: L_Leg_05_7
+    400268: L_Leg_05_8
+    400270: L_Leg_05_9
+    400272: L_Leg_2
+    400274: L_Leg_3
+    400276: L_Leg_4
+    400278: L_Leg_5
+    400280: L_Leg_6
+    400282: L_Leg_7
+    400284: L_Leg_8
+    400286: L_Leg_9
+    400288: L_Leg_Pole
+    400290: L_Leg_Pole_2
+    400292: L_Leg_Pole_3
+    400294: L_Leg_Pole_4
+    400296: L_Leg_Pole_5
+    400298: L_Leg_Pole_6
+    400300: L_Leg_Pole_7
+    400302: L_Leg_Pole_8
+    400304: L_Leg_Pole_9
+    400306: Pervis
+    400308: Pervis_10
+    400310: Pervis_11
+    400312: Pervis_12
+    400314: Pervis_13
+    400316: Pervis_14
+    400318: Pervis_15
+    400320: Pervis_16
+    400322: Pervis_17
+    400324: Pervis_18
+    400326: Pervis_2
+    400328: Pervis_3
+    400330: Pervis_4
+    400332: Pervis_5
+    400334: Pervis_6
+    400336: Pervis_7
+    400338: Pervis_8
+    400340: Pervis_9
+    400342: Plane
+    400344: Plane_2
+    400346: Plane_3
+    400348: Plane_4
+    400350: Plane_5
+    400352: Plane_6
+    400354: Plane_7
+    400356: Plane_8
+    400358: Plane_9
+    400360: R_Arm
+    400362: R_Arm_01
+    400364: R_Arm_01_2
+    400366: R_Arm_01_3
+    400368: R_Arm_01_4
+    400370: R_Arm_01_5
+    400372: R_Arm_01_6
+    400374: R_Arm_01_7
+    400376: R_Arm_01_8
+    400378: R_Arm_01_9
+    400380: R_Arm_02
+    400382: R_Arm_02_2
+    400384: R_Arm_02_3
+    400386: R_Arm_02_4
+    400388: R_Arm_02_5
+    400390: R_Arm_02_6
+    400392: R_Arm_02_7
+    400394: R_Arm_02_8
+    400396: R_Arm_02_9
+    400398: R_Arm_03
+    400400: R_Arm_03_2
+    400402: R_Arm_03_3
+    400404: R_Arm_03_4
+    400406: R_Arm_03_5
+    400408: R_Arm_03_6
+    400410: R_Arm_03_7
+    400412: R_Arm_03_8
+    400414: R_Arm_03_9
+    400416: R_Arm_04
+    400418: R_Arm_04_2
+    400420: R_Arm_04_3
+    400422: R_Arm_04_4
+    400424: R_Arm_04_5
+    400426: R_Arm_04_6
+    400428: R_Arm_04_7
+    400430: R_Arm_04_8
+    400432: R_Arm_04_9
+    400434: R_Arm_05
+    400436: R_Arm_05_2
+    400438: R_Arm_05_3
+    400440: R_Arm_05_4
+    400442: R_Arm_05_5
+    400444: R_Arm_05_6
+    400446: R_Arm_05_7
+    400448: R_Arm_05_8
+    400450: R_Arm_05_9
+    400452: R_Arm_2
+    400454: R_Arm_3
+    400456: R_Arm_4
+    400458: R_Arm_5
+    400460: R_Arm_6
+    400462: R_Arm_7
+    400464: R_Arm_8
+    400466: R_Arm_9
+    400468: R_Arm_Pole
+    400470: R_Arm_Pole_2
+    400472: R_Arm_Pole_3
+    400474: R_Arm_Pole_4
+    400476: R_Arm_Pole_5
+    400478: R_Arm_Pole_6
+    400480: R_Arm_Pole_7
+    400482: R_Arm_Pole_8
+    400484: R_Arm_Pole_9
+    400486: R_Leg
+    400488: R_Leg_01
+    400490: R_Leg_01_2
+    400492: R_Leg_01_3
+    400494: R_Leg_01_4
+    400496: R_Leg_01_5
+    400498: R_Leg_01_6
+    400500: R_Leg_01_7
+    400502: R_Leg_01_8
+    400504: R_Leg_01_9
+    400506: R_Leg_02
+    400508: R_Leg_02_2
+    400510: R_Leg_02_3
+    400512: R_Leg_02_4
+    400514: R_Leg_02_5
+    400516: R_Leg_02_6
+    400518: R_Leg_02_7
+    400520: R_Leg_02_8
+    400522: R_Leg_02_9
+    400524: R_Leg_03
+    400526: R_Leg_03_2
+    400528: R_Leg_03_3
+    400530: R_Leg_03_4
+    400532: R_Leg_03_5
+    400534: R_Leg_03_6
+    400536: R_Leg_03_7
+    400538: R_Leg_03_8
+    400540: R_Leg_03_9
+    400542: R_Leg_04
+    400544: R_Leg_04_2
+    400546: R_Leg_04_3
+    400548: R_Leg_04_4
+    400550: R_Leg_04_5
+    400552: R_Leg_04_6
+    400554: R_Leg_04_7
+    400556: R_Leg_04_8
+    400558: R_Leg_04_9
+    400560: R_Leg_05
+    400562: R_Leg_05_2
+    400564: R_Leg_05_3
+    400566: R_Leg_05_4
+    400568: R_Leg_05_5
+    400570: R_Leg_05_6
+    400572: R_Leg_05_7
+    400574: R_Leg_05_8
+    400576: R_Leg_05_9
+    400578: R_Leg_2
+    400580: R_Leg_3
+    400582: R_Leg_4
+    400584: R_Leg_5
+    400586: R_Leg_6
+    400588: R_Leg_7
+    400590: R_Leg_8
+    400592: R_Leg_9
+    400594: R_Leg_Pole
+    400596: R_Leg_Pole_2
+    400598: R_Leg_Pole_3
+    400600: R_Leg_Pole_4
+    400602: R_Leg_Pole_5
+    400604: R_Leg_Pole_6
+    400606: R_Leg_Pole_7
+    400608: R_Leg_Pole_8
+    400610: R_Leg_Pole_9
+    400612: rotation_01
+    400614: rotation_01_2
+    400616: rotation_01_M
+    400618: rotation_02
+    400620: rotation_02_2
+    400622: rotation_02_M
+    400624: rotation_03
+    400626: rotation_03_2
+    400628: rotation_03_M
+    400630: //RootNode
+    400632: shadows
+    400634: Spine_01
+    400636: Spine_01_2
+    400638: Spine_01_3
+    400640: Spine_01_4
+    400642: Spine_01_5
+    400644: Spine_01_6
+    400646: Spine_01_7
+    400648: Spine_01_8
+    400650: Spine_01_9
+    400652: Spine_02
+    400654: Spine_02_2
+    400656: Spine_02_3
+    400658: Spine_02_4
+    400660: Spine_02_5
+    400662: Spine_02_6
+    400664: Spine_02_7
+    400666: Spine_02_8
+    400668: Spine_02_9
+    400670: Spine_03
+    400672: Spine_03_2
+    400674: Spine_03_3
+    400676: Spine_03_4
+    400678: Spine_03_5
+    400680: Spine_03_6
+    400682: Spine_03_7
+    400684: Spine_03_8
+    400686: Spine_03_9
+    400688: Spine_04
+    400690: Spine_04_2
+    400692: Spine_04_3
+    400694: Spine_04_4
+    400696: Spine_04_5
+    400698: Spine_04_6
+    400700: Spine_04_7
+    400702: Spine_04_8
+    400704: Spine_04_9
+    400706: Spine_05
+    400708: Spine_05_2
+    400710: Spine_05_3
+    400712: Spine_05_4
+    400714: Spine_05_5
+    400716: Spine_05_6
+    400718: Spine_05_7
+    400720: Spine_05_8
+    400722: Spine_05_9
+    400724: Subdivision_Surface
+    400726: Subdivision_Surface_2
+    400728: Subdivision_Surface_3
+    400730: Subdivision_Surface_4
+    400732: Subdivision_Surface_5
+    400734: Subdivision_Surface_6
+    400736: Subdivision_Surface_7
+    400738: Subdivision_Surface_8
+    400740: Subdivision_Surface_9
+    2300000: 1_M
+    2300002: 2_M
+    2300004: 3_M
+    2300006: 4_1
+    2300008: 5_2
+    2300010: 6_3
+    2300012: 7_1
+    2300014: 8_2
+    2300016: 9_3
+    2300018: //RootNode
+    3300000: 1_M
+    3300002: 2_M
+    3300004: 3_M
+    3300006: 4_1
+    3300008: 5_2
+    3300010: 6_3
+    3300012: 7_1
+    3300014: 8_2
+    3300016: 9_3
+    3300018: //RootNode
+    4300000: Disc
+    4300002: 1_M
+    4300004: Plane
+    4300006: 2_M
+    4300008: Plane_2
+    4300010: 3_M
+    4300012: Plane_3
+    4300014: 4_1
+    4300016: Plane_4
+    4300018: 5_2
+    4300020: Plane_5
+    4300022: 6_3
+    4300024: Plane_6
+    4300026: 7_1
+    4300028: Plane_7
+    4300030: 8_2
+    4300032: Plane_8
+    4300034: 9_3
+    4300036: Plane_9
+    7400000: shadow_intro
+    7400002: shadow_dance
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: Plane
+    13700002: Plane_2
+    13700004: Plane_3
+    13700006: Plane_4
+    13700008: Plane_5
+    13700010: Plane_6
+    13700012: Plane_7
+    13700014: Plane_8
+    13700016: Plane_9
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: shadow_intro
+      takeName: C4D Animation Take
+      firstFrame: -1
+      lastFrame: 409
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: shadows
+        weight: 1
+      - path: shadows/1_M
+        weight: 1
+      - path: shadows/1_M/rotation_01_M
+        weight: 1
+      - path: shadows/1_M/rotation_01_M/ANIMATION_01_M
+        weight: 1
+      - path: shadows/1_M/rotation_01_M/ANIMATION_01_M/Pervis
+        weight: 1
+      - path: shadows/1_M/rotation_01_M/ANIMATION_01_M/Pervis/Head
+        weight: 1
+      - path: shadows/1_M/rotation_01_M/ANIMATION_01_M/Pervis/L_Arm
+        weight: 1
+      - path: shadows/1_M/rotation_01_M/ANIMATION_01_M/Pervis/L_Arm_Pole
+        weight: 1
+      - path: shadows/1_M/rotation_01_M/ANIMATION_01_M/Pervis/L_Leg
+        weight: 1
+      - path: shadows/1_M/rotation_01_M/ANIMATION_01_M/Pervis/L_Leg_Pole
+        weight: 1
+      - path: shadows/1_M/rotation_01_M/ANIMATION_01_M/Pervis/R_Arm
+        weight: 1
+      - path: shadows/1_M/rotation_01_M/ANIMATION_01_M/Pervis/R_Arm_Pole
+        weight: 1
+      - path: shadows/1_M/rotation_01_M/ANIMATION_01_M/Pervis/R_Leg
+        weight: 1
+      - path: shadows/1_M/rotation_01_M/ANIMATION_01_M/Pervis/R_Leg_Pole
+        weight: 1
+      - path: shadows/1_M/rotation_01_M/ANIMATION_01_M/Pervis_2
+        weight: 1
+      - path: shadows/1_M/rotation_01_M/ANIMATION_01_M/Pervis_2/L_Leg_01
+        weight: 1
+      - path: shadows/1_M/rotation_01_M/ANIMATION_01_M/Pervis_2/L_Leg_01/L_Leg_02
+        weight: 1
+      - path: shadows/1_M/rotation_01_M/ANIMATION_01_M/Pervis_2/L_Leg_01/L_Leg_02/L_Leg_03
+        weight: 1
+      - path: shadows/1_M/rotation_01_M/ANIMATION_01_M/Pervis_2/L_Leg_01/L_Leg_02/L_Leg_03/L_Leg_04
+        weight: 1
+      - path: shadows/1_M/rotation_01_M/ANIMATION_01_M/Pervis_2/L_Leg_01/L_Leg_02/L_Leg_03/L_Leg_04/L_Leg_05
+        weight: 1
+      - path: shadows/1_M/rotation_01_M/ANIMATION_01_M/Pervis_2/R_Leg_01
+        weight: 1
+      - path: shadows/1_M/rotation_01_M/ANIMATION_01_M/Pervis_2/R_Leg_01/R_Leg_02
+        weight: 1
+      - path: shadows/1_M/rotation_01_M/ANIMATION_01_M/Pervis_2/R_Leg_01/R_Leg_02/R_Leg_03
+        weight: 1
+      - path: shadows/1_M/rotation_01_M/ANIMATION_01_M/Pervis_2/R_Leg_01/R_Leg_02/R_Leg_03/R_Leg_04
+        weight: 1
+      - path: shadows/1_M/rotation_01_M/ANIMATION_01_M/Pervis_2/R_Leg_01/R_Leg_02/R_Leg_03/R_Leg_04/R_Leg_05
+        weight: 1
+      - path: shadows/1_M/rotation_01_M/ANIMATION_01_M/Pervis_2/Spine_01
+        weight: 1
+      - path: shadows/1_M/rotation_01_M/ANIMATION_01_M/Pervis_2/Spine_01/Spine_02
+        weight: 1
+      - path: shadows/1_M/rotation_01_M/ANIMATION_01_M/Pervis_2/Spine_01/Spine_02/L_Arm_01
+        weight: 1
+      - path: shadows/1_M/rotation_01_M/ANIMATION_01_M/Pervis_2/Spine_01/Spine_02/L_Arm_01/L_Arm_02
+        weight: 1
+      - path: shadows/1_M/rotation_01_M/ANIMATION_01_M/Pervis_2/Spine_01/Spine_02/L_Arm_01/L_Arm_02/L_Arm_03
+        weight: 1
+      - path: shadows/1_M/rotation_01_M/ANIMATION_01_M/Pervis_2/Spine_01/Spine_02/L_Arm_01/L_Arm_02/L_Arm_03/L_Arm_04
+        weight: 1
+      - path: shadows/1_M/rotation_01_M/ANIMATION_01_M/Pervis_2/Spine_01/Spine_02/L_Arm_01/L_Arm_02/L_Arm_03/L_Arm_04/L_Arm_05
+        weight: 1
+      - path: shadows/1_M/rotation_01_M/ANIMATION_01_M/Pervis_2/Spine_01/Spine_02/R_Arm_01
+        weight: 1
+      - path: shadows/1_M/rotation_01_M/ANIMATION_01_M/Pervis_2/Spine_01/Spine_02/R_Arm_01/R_Arm_02
+        weight: 1
+      - path: shadows/1_M/rotation_01_M/ANIMATION_01_M/Pervis_2/Spine_01/Spine_02/R_Arm_01/R_Arm_02/R_Arm_03
+        weight: 1
+      - path: shadows/1_M/rotation_01_M/ANIMATION_01_M/Pervis_2/Spine_01/Spine_02/R_Arm_01/R_Arm_02/R_Arm_03/R_Arm_04
+        weight: 1
+      - path: shadows/1_M/rotation_01_M/ANIMATION_01_M/Pervis_2/Spine_01/Spine_02/R_Arm_01/R_Arm_02/R_Arm_03/R_Arm_04/R_Arm_05
+        weight: 1
+      - path: shadows/1_M/rotation_01_M/ANIMATION_01_M/Pervis_2/Spine_01/Spine_02/Spine_03
+        weight: 1
+      - path: shadows/1_M/rotation_01_M/ANIMATION_01_M/Pervis_2/Spine_01/Spine_02/Spine_03/Spine_04
+        weight: 1
+      - path: shadows/1_M/rotation_01_M/ANIMATION_01_M/Pervis_2/Spine_01/Spine_02/Spine_03/Spine_04/Spine_05
+        weight: 1
+      - path: shadows/1_M/rotation_01_M/ANIMATION_01_M/Subdivision_Surface
+        weight: 1
+      - path: shadows/1_M/rotation_01_M/ANIMATION_01_M/Subdivision_Surface/Plane
+        weight: 1
+      - path: shadows/2_M
+        weight: 1
+      - path: shadows/2_M/rotation_02_M
+        weight: 1
+      - path: shadows/2_M/rotation_02_M/ANIMATION_02_M
+        weight: 1
+      - path: shadows/2_M/rotation_02_M/ANIMATION_02_M/Pervis_3
+        weight: 1
+      - path: shadows/2_M/rotation_02_M/ANIMATION_02_M/Pervis_3/Head_2
+        weight: 1
+      - path: shadows/2_M/rotation_02_M/ANIMATION_02_M/Pervis_3/L_Arm_2
+        weight: 1
+      - path: shadows/2_M/rotation_02_M/ANIMATION_02_M/Pervis_3/L_Arm_Pole_2
+        weight: 1
+      - path: shadows/2_M/rotation_02_M/ANIMATION_02_M/Pervis_3/L_Leg_2
+        weight: 1
+      - path: shadows/2_M/rotation_02_M/ANIMATION_02_M/Pervis_3/L_Leg_Pole_2
+        weight: 1
+      - path: shadows/2_M/rotation_02_M/ANIMATION_02_M/Pervis_3/R_Arm_2
+        weight: 1
+      - path: shadows/2_M/rotation_02_M/ANIMATION_02_M/Pervis_3/R_Arm_Pole_2
+        weight: 1
+      - path: shadows/2_M/rotation_02_M/ANIMATION_02_M/Pervis_3/R_Leg_2
+        weight: 1
+      - path: shadows/2_M/rotation_02_M/ANIMATION_02_M/Pervis_3/R_Leg_Pole_2
+        weight: 1
+      - path: shadows/2_M/rotation_02_M/ANIMATION_02_M/Pervis_4
+        weight: 1
+      - path: shadows/2_M/rotation_02_M/ANIMATION_02_M/Pervis_4/L_Leg_01_2
+        weight: 1
+      - path: shadows/2_M/rotation_02_M/ANIMATION_02_M/Pervis_4/L_Leg_01_2/L_Leg_02_2
+        weight: 1
+      - path: shadows/2_M/rotation_02_M/ANIMATION_02_M/Pervis_4/L_Leg_01_2/L_Leg_02_2/L_Leg_03_2
+        weight: 1
+      - path: shadows/2_M/rotation_02_M/ANIMATION_02_M/Pervis_4/L_Leg_01_2/L_Leg_02_2/L_Leg_03_2/L_Leg_04_2
+        weight: 1
+      - path: shadows/2_M/rotation_02_M/ANIMATION_02_M/Pervis_4/L_Leg_01_2/L_Leg_02_2/L_Leg_03_2/L_Leg_04_2/L_Leg_05_2
+        weight: 1
+      - path: shadows/2_M/rotation_02_M/ANIMATION_02_M/Pervis_4/R_Leg_01_2
+        weight: 1
+      - path: shadows/2_M/rotation_02_M/ANIMATION_02_M/Pervis_4/R_Leg_01_2/R_Leg_02_2
+        weight: 1
+      - path: shadows/2_M/rotation_02_M/ANIMATION_02_M/Pervis_4/R_Leg_01_2/R_Leg_02_2/R_Leg_03_2
+        weight: 1
+      - path: shadows/2_M/rotation_02_M/ANIMATION_02_M/Pervis_4/R_Leg_01_2/R_Leg_02_2/R_Leg_03_2/R_Leg_04_2
+        weight: 1
+      - path: shadows/2_M/rotation_02_M/ANIMATION_02_M/Pervis_4/R_Leg_01_2/R_Leg_02_2/R_Leg_03_2/R_Leg_04_2/R_Leg_05_2
+        weight: 1
+      - path: shadows/2_M/rotation_02_M/ANIMATION_02_M/Pervis_4/Spine_01_2
+        weight: 1
+      - path: shadows/2_M/rotation_02_M/ANIMATION_02_M/Pervis_4/Spine_01_2/Spine_02_2
+        weight: 1
+      - path: shadows/2_M/rotation_02_M/ANIMATION_02_M/Pervis_4/Spine_01_2/Spine_02_2/L_Arm_01_2
+        weight: 1
+      - path: shadows/2_M/rotation_02_M/ANIMATION_02_M/Pervis_4/Spine_01_2/Spine_02_2/L_Arm_01_2/L_Arm_02_2
+        weight: 1
+      - path: shadows/2_M/rotation_02_M/ANIMATION_02_M/Pervis_4/Spine_01_2/Spine_02_2/L_Arm_01_2/L_Arm_02_2/L_Arm_03_2
+        weight: 1
+      - path: shadows/2_M/rotation_02_M/ANIMATION_02_M/Pervis_4/Spine_01_2/Spine_02_2/L_Arm_01_2/L_Arm_02_2/L_Arm_03_2/L_Arm_04_2
+        weight: 1
+      - path: shadows/2_M/rotation_02_M/ANIMATION_02_M/Pervis_4/Spine_01_2/Spine_02_2/L_Arm_01_2/L_Arm_02_2/L_Arm_03_2/L_Arm_04_2/L_Arm_05_2
+        weight: 1
+      - path: shadows/2_M/rotation_02_M/ANIMATION_02_M/Pervis_4/Spine_01_2/Spine_02_2/R_Arm_01_2
+        weight: 1
+      - path: shadows/2_M/rotation_02_M/ANIMATION_02_M/Pervis_4/Spine_01_2/Spine_02_2/R_Arm_01_2/R_Arm_02_2
+        weight: 1
+      - path: shadows/2_M/rotation_02_M/ANIMATION_02_M/Pervis_4/Spine_01_2/Spine_02_2/R_Arm_01_2/R_Arm_02_2/R_Arm_03_2
+        weight: 1
+      - path: shadows/2_M/rotation_02_M/ANIMATION_02_M/Pervis_4/Spine_01_2/Spine_02_2/R_Arm_01_2/R_Arm_02_2/R_Arm_03_2/R_Arm_04_2
+        weight: 1
+      - path: shadows/2_M/rotation_02_M/ANIMATION_02_M/Pervis_4/Spine_01_2/Spine_02_2/R_Arm_01_2/R_Arm_02_2/R_Arm_03_2/R_Arm_04_2/R_Arm_05_2
+        weight: 1
+      - path: shadows/2_M/rotation_02_M/ANIMATION_02_M/Pervis_4/Spine_01_2/Spine_02_2/Spine_03_2
+        weight: 1
+      - path: shadows/2_M/rotation_02_M/ANIMATION_02_M/Pervis_4/Spine_01_2/Spine_02_2/Spine_03_2/Spine_04_2
+        weight: 1
+      - path: shadows/2_M/rotation_02_M/ANIMATION_02_M/Pervis_4/Spine_01_2/Spine_02_2/Spine_03_2/Spine_04_2/Spine_05_2
+        weight: 1
+      - path: shadows/2_M/rotation_02_M/ANIMATION_02_M/Subdivision_Surface_2
+        weight: 1
+      - path: shadows/2_M/rotation_02_M/ANIMATION_02_M/Subdivision_Surface_2/Plane_2
+        weight: 1
+      - path: shadows/3_M
+        weight: 1
+      - path: shadows/3_M/rotation_03_M
+        weight: 1
+      - path: shadows/3_M/rotation_03_M/ANIMATION_03_M
+        weight: 1
+      - path: shadows/3_M/rotation_03_M/ANIMATION_03_M/Pervis_5
+        weight: 1
+      - path: shadows/3_M/rotation_03_M/ANIMATION_03_M/Pervis_5/Head_3
+        weight: 1
+      - path: shadows/3_M/rotation_03_M/ANIMATION_03_M/Pervis_5/L_Arm_3
+        weight: 1
+      - path: shadows/3_M/rotation_03_M/ANIMATION_03_M/Pervis_5/L_Arm_Pole_3
+        weight: 1
+      - path: shadows/3_M/rotation_03_M/ANIMATION_03_M/Pervis_5/L_Leg_3
+        weight: 1
+      - path: shadows/3_M/rotation_03_M/ANIMATION_03_M/Pervis_5/L_Leg_Pole_3
+        weight: 1
+      - path: shadows/3_M/rotation_03_M/ANIMATION_03_M/Pervis_5/R_Arm_3
+        weight: 1
+      - path: shadows/3_M/rotation_03_M/ANIMATION_03_M/Pervis_5/R_Arm_Pole_3
+        weight: 1
+      - path: shadows/3_M/rotation_03_M/ANIMATION_03_M/Pervis_5/R_Leg_3
+        weight: 1
+      - path: shadows/3_M/rotation_03_M/ANIMATION_03_M/Pervis_5/R_Leg_Pole_3
+        weight: 1
+      - path: shadows/3_M/rotation_03_M/ANIMATION_03_M/Pervis_6
+        weight: 1
+      - path: shadows/3_M/rotation_03_M/ANIMATION_03_M/Pervis_6/L_Leg_01_3
+        weight: 1
+      - path: shadows/3_M/rotation_03_M/ANIMATION_03_M/Pervis_6/L_Leg_01_3/L_Leg_02_3
+        weight: 1
+      - path: shadows/3_M/rotation_03_M/ANIMATION_03_M/Pervis_6/L_Leg_01_3/L_Leg_02_3/L_Leg_03_3
+        weight: 1
+      - path: shadows/3_M/rotation_03_M/ANIMATION_03_M/Pervis_6/L_Leg_01_3/L_Leg_02_3/L_Leg_03_3/L_Leg_04_3
+        weight: 1
+      - path: shadows/3_M/rotation_03_M/ANIMATION_03_M/Pervis_6/L_Leg_01_3/L_Leg_02_3/L_Leg_03_3/L_Leg_04_3/L_Leg_05_3
+        weight: 1
+      - path: shadows/3_M/rotation_03_M/ANIMATION_03_M/Pervis_6/R_Leg_01_3
+        weight: 1
+      - path: shadows/3_M/rotation_03_M/ANIMATION_03_M/Pervis_6/R_Leg_01_3/R_Leg_02_3
+        weight: 1
+      - path: shadows/3_M/rotation_03_M/ANIMATION_03_M/Pervis_6/R_Leg_01_3/R_Leg_02_3/R_Leg_03_3
+        weight: 1
+      - path: shadows/3_M/rotation_03_M/ANIMATION_03_M/Pervis_6/R_Leg_01_3/R_Leg_02_3/R_Leg_03_3/R_Leg_04_3
+        weight: 1
+      - path: shadows/3_M/rotation_03_M/ANIMATION_03_M/Pervis_6/R_Leg_01_3/R_Leg_02_3/R_Leg_03_3/R_Leg_04_3/R_Leg_05_3
+        weight: 1
+      - path: shadows/3_M/rotation_03_M/ANIMATION_03_M/Pervis_6/Spine_01_3
+        weight: 1
+      - path: shadows/3_M/rotation_03_M/ANIMATION_03_M/Pervis_6/Spine_01_3/Spine_02_3
+        weight: 1
+      - path: shadows/3_M/rotation_03_M/ANIMATION_03_M/Pervis_6/Spine_01_3/Spine_02_3/L_Arm_01_3
+        weight: 1
+      - path: shadows/3_M/rotation_03_M/ANIMATION_03_M/Pervis_6/Spine_01_3/Spine_02_3/L_Arm_01_3/L_Arm_02_3
+        weight: 1
+      - path: shadows/3_M/rotation_03_M/ANIMATION_03_M/Pervis_6/Spine_01_3/Spine_02_3/L_Arm_01_3/L_Arm_02_3/L_Arm_03_3
+        weight: 1
+      - path: shadows/3_M/rotation_03_M/ANIMATION_03_M/Pervis_6/Spine_01_3/Spine_02_3/L_Arm_01_3/L_Arm_02_3/L_Arm_03_3/L_Arm_04_3
+        weight: 1
+      - path: shadows/3_M/rotation_03_M/ANIMATION_03_M/Pervis_6/Spine_01_3/Spine_02_3/L_Arm_01_3/L_Arm_02_3/L_Arm_03_3/L_Arm_04_3/L_Arm_05_3
+        weight: 1
+      - path: shadows/3_M/rotation_03_M/ANIMATION_03_M/Pervis_6/Spine_01_3/Spine_02_3/R_Arm_01_3
+        weight: 1
+      - path: shadows/3_M/rotation_03_M/ANIMATION_03_M/Pervis_6/Spine_01_3/Spine_02_3/R_Arm_01_3/R_Arm_02_3
+        weight: 1
+      - path: shadows/3_M/rotation_03_M/ANIMATION_03_M/Pervis_6/Spine_01_3/Spine_02_3/R_Arm_01_3/R_Arm_02_3/R_Arm_03_3
+        weight: 1
+      - path: shadows/3_M/rotation_03_M/ANIMATION_03_M/Pervis_6/Spine_01_3/Spine_02_3/R_Arm_01_3/R_Arm_02_3/R_Arm_03_3/R_Arm_04_3
+        weight: 1
+      - path: shadows/3_M/rotation_03_M/ANIMATION_03_M/Pervis_6/Spine_01_3/Spine_02_3/R_Arm_01_3/R_Arm_02_3/R_Arm_03_3/R_Arm_04_3/R_Arm_05_3
+        weight: 1
+      - path: shadows/3_M/rotation_03_M/ANIMATION_03_M/Pervis_6/Spine_01_3/Spine_02_3/Spine_03_3
+        weight: 1
+      - path: shadows/3_M/rotation_03_M/ANIMATION_03_M/Pervis_6/Spine_01_3/Spine_02_3/Spine_03_3/Spine_04_3
+        weight: 1
+      - path: shadows/3_M/rotation_03_M/ANIMATION_03_M/Pervis_6/Spine_01_3/Spine_02_3/Spine_03_3/Spine_04_3/Spine_05_3
+        weight: 1
+      - path: shadows/3_M/rotation_03_M/ANIMATION_03_M/Subdivision_Surface_3
+        weight: 1
+      - path: shadows/3_M/rotation_03_M/ANIMATION_03_M/Subdivision_Surface_3/Plane_3
+        weight: 1
+      - path: shadows/4_1
+        weight: 1
+      - path: shadows/4_1/rotation_01
+        weight: 1
+      - path: shadows/4_1/rotation_01/ANIMATION_01
+        weight: 1
+      - path: shadows/4_1/rotation_01/ANIMATION_01/Pervis_7
+        weight: 1
+      - path: shadows/4_1/rotation_01/ANIMATION_01/Pervis_7/Head_4
+        weight: 1
+      - path: shadows/4_1/rotation_01/ANIMATION_01/Pervis_7/L_Arm_4
+        weight: 1
+      - path: shadows/4_1/rotation_01/ANIMATION_01/Pervis_7/L_Arm_Pole_4
+        weight: 1
+      - path: shadows/4_1/rotation_01/ANIMATION_01/Pervis_7/L_Leg_4
+        weight: 1
+      - path: shadows/4_1/rotation_01/ANIMATION_01/Pervis_7/L_Leg_Pole_4
+        weight: 1
+      - path: shadows/4_1/rotation_01/ANIMATION_01/Pervis_7/R_Arm_4
+        weight: 1
+      - path: shadows/4_1/rotation_01/ANIMATION_01/Pervis_7/R_Arm_Pole_4
+        weight: 1
+      - path: shadows/4_1/rotation_01/ANIMATION_01/Pervis_7/R_Leg_4
+        weight: 1
+      - path: shadows/4_1/rotation_01/ANIMATION_01/Pervis_7/R_Leg_Pole_4
+        weight: 1
+      - path: shadows/4_1/rotation_01/ANIMATION_01/Pervis_8
+        weight: 1
+      - path: shadows/4_1/rotation_01/ANIMATION_01/Pervis_8/L_Leg_01_4
+        weight: 1
+      - path: shadows/4_1/rotation_01/ANIMATION_01/Pervis_8/L_Leg_01_4/L_Leg_02_4
+        weight: 1
+      - path: shadows/4_1/rotation_01/ANIMATION_01/Pervis_8/L_Leg_01_4/L_Leg_02_4/L_Leg_03_4
+        weight: 1
+      - path: shadows/4_1/rotation_01/ANIMATION_01/Pervis_8/L_Leg_01_4/L_Leg_02_4/L_Leg_03_4/L_Leg_04_4
+        weight: 1
+      - path: shadows/4_1/rotation_01/ANIMATION_01/Pervis_8/L_Leg_01_4/L_Leg_02_4/L_Leg_03_4/L_Leg_04_4/L_Leg_05_4
+        weight: 1
+      - path: shadows/4_1/rotation_01/ANIMATION_01/Pervis_8/R_Leg_01_4
+        weight: 1
+      - path: shadows/4_1/rotation_01/ANIMATION_01/Pervis_8/R_Leg_01_4/R_Leg_02_4
+        weight: 1
+      - path: shadows/4_1/rotation_01/ANIMATION_01/Pervis_8/R_Leg_01_4/R_Leg_02_4/R_Leg_03_4
+        weight: 1
+      - path: shadows/4_1/rotation_01/ANIMATION_01/Pervis_8/R_Leg_01_4/R_Leg_02_4/R_Leg_03_4/R_Leg_04_4
+        weight: 1
+      - path: shadows/4_1/rotation_01/ANIMATION_01/Pervis_8/R_Leg_01_4/R_Leg_02_4/R_Leg_03_4/R_Leg_04_4/R_Leg_05_4
+        weight: 1
+      - path: shadows/4_1/rotation_01/ANIMATION_01/Pervis_8/Spine_01_4
+        weight: 1
+      - path: shadows/4_1/rotation_01/ANIMATION_01/Pervis_8/Spine_01_4/Spine_02_4
+        weight: 1
+      - path: shadows/4_1/rotation_01/ANIMATION_01/Pervis_8/Spine_01_4/Spine_02_4/L_Arm_01_4
+        weight: 1
+      - path: shadows/4_1/rotation_01/ANIMATION_01/Pervis_8/Spine_01_4/Spine_02_4/L_Arm_01_4/L_Arm_02_4
+        weight: 1
+      - path: shadows/4_1/rotation_01/ANIMATION_01/Pervis_8/Spine_01_4/Spine_02_4/L_Arm_01_4/L_Arm_02_4/L_Arm_03_4
+        weight: 1
+      - path: shadows/4_1/rotation_01/ANIMATION_01/Pervis_8/Spine_01_4/Spine_02_4/L_Arm_01_4/L_Arm_02_4/L_Arm_03_4/L_Arm_04_4
+        weight: 1
+      - path: shadows/4_1/rotation_01/ANIMATION_01/Pervis_8/Spine_01_4/Spine_02_4/L_Arm_01_4/L_Arm_02_4/L_Arm_03_4/L_Arm_04_4/L_Arm_05_4
+        weight: 1
+      - path: shadows/4_1/rotation_01/ANIMATION_01/Pervis_8/Spine_01_4/Spine_02_4/R_Arm_01_4
+        weight: 1
+      - path: shadows/4_1/rotation_01/ANIMATION_01/Pervis_8/Spine_01_4/Spine_02_4/R_Arm_01_4/R_Arm_02_4
+        weight: 1
+      - path: shadows/4_1/rotation_01/ANIMATION_01/Pervis_8/Spine_01_4/Spine_02_4/R_Arm_01_4/R_Arm_02_4/R_Arm_03_4
+        weight: 1
+      - path: shadows/4_1/rotation_01/ANIMATION_01/Pervis_8/Spine_01_4/Spine_02_4/R_Arm_01_4/R_Arm_02_4/R_Arm_03_4/R_Arm_04_4
+        weight: 1
+      - path: shadows/4_1/rotation_01/ANIMATION_01/Pervis_8/Spine_01_4/Spine_02_4/R_Arm_01_4/R_Arm_02_4/R_Arm_03_4/R_Arm_04_4/R_Arm_05_4
+        weight: 1
+      - path: shadows/4_1/rotation_01/ANIMATION_01/Pervis_8/Spine_01_4/Spine_02_4/Spine_03_4
+        weight: 1
+      - path: shadows/4_1/rotation_01/ANIMATION_01/Pervis_8/Spine_01_4/Spine_02_4/Spine_03_4/Spine_04_4
+        weight: 1
+      - path: shadows/4_1/rotation_01/ANIMATION_01/Pervis_8/Spine_01_4/Spine_02_4/Spine_03_4/Spine_04_4/Spine_05_4
+        weight: 1
+      - path: shadows/4_1/rotation_01/ANIMATION_01/Subdivision_Surface_4
+        weight: 1
+      - path: shadows/4_1/rotation_01/ANIMATION_01/Subdivision_Surface_4/Plane_4
+        weight: 1
+      - path: shadows/5_2
+        weight: 1
+      - path: shadows/5_2/rotation_02
+        weight: 1
+      - path: shadows/5_2/rotation_02/ANIMATION_02
+        weight: 1
+      - path: shadows/5_2/rotation_02/ANIMATION_02/Pervis_9
+        weight: 1
+      - path: shadows/5_2/rotation_02/ANIMATION_02/Pervis_9/Head_5
+        weight: 1
+      - path: shadows/5_2/rotation_02/ANIMATION_02/Pervis_9/L_Arm_5
+        weight: 1
+      - path: shadows/5_2/rotation_02/ANIMATION_02/Pervis_9/L_Arm_Pole_5
+        weight: 1
+      - path: shadows/5_2/rotation_02/ANIMATION_02/Pervis_9/L_Leg_5
+        weight: 1
+      - path: shadows/5_2/rotation_02/ANIMATION_02/Pervis_9/L_Leg_Pole_5
+        weight: 1
+      - path: shadows/5_2/rotation_02/ANIMATION_02/Pervis_9/R_Arm_5
+        weight: 1
+      - path: shadows/5_2/rotation_02/ANIMATION_02/Pervis_9/R_Arm_Pole_5
+        weight: 1
+      - path: shadows/5_2/rotation_02/ANIMATION_02/Pervis_9/R_Leg_5
+        weight: 1
+      - path: shadows/5_2/rotation_02/ANIMATION_02/Pervis_9/R_Leg_Pole_5
+        weight: 1
+      - path: shadows/5_2/rotation_02/ANIMATION_02/Pervis_10
+        weight: 1
+      - path: shadows/5_2/rotation_02/ANIMATION_02/Pervis_10/L_Leg_01_5
+        weight: 1
+      - path: shadows/5_2/rotation_02/ANIMATION_02/Pervis_10/L_Leg_01_5/L_Leg_02_5
+        weight: 1
+      - path: shadows/5_2/rotation_02/ANIMATION_02/Pervis_10/L_Leg_01_5/L_Leg_02_5/L_Leg_03_5
+        weight: 1
+      - path: shadows/5_2/rotation_02/ANIMATION_02/Pervis_10/L_Leg_01_5/L_Leg_02_5/L_Leg_03_5/L_Leg_04_5
+        weight: 1
+      - path: shadows/5_2/rotation_02/ANIMATION_02/Pervis_10/L_Leg_01_5/L_Leg_02_5/L_Leg_03_5/L_Leg_04_5/L_Leg_05_5
+        weight: 1
+      - path: shadows/5_2/rotation_02/ANIMATION_02/Pervis_10/R_Leg_01_5
+        weight: 1
+      - path: shadows/5_2/rotation_02/ANIMATION_02/Pervis_10/R_Leg_01_5/R_Leg_02_5
+        weight: 1
+      - path: shadows/5_2/rotation_02/ANIMATION_02/Pervis_10/R_Leg_01_5/R_Leg_02_5/R_Leg_03_5
+        weight: 1
+      - path: shadows/5_2/rotation_02/ANIMATION_02/Pervis_10/R_Leg_01_5/R_Leg_02_5/R_Leg_03_5/R_Leg_04_5
+        weight: 1
+      - path: shadows/5_2/rotation_02/ANIMATION_02/Pervis_10/R_Leg_01_5/R_Leg_02_5/R_Leg_03_5/R_Leg_04_5/R_Leg_05_5
+        weight: 1
+      - path: shadows/5_2/rotation_02/ANIMATION_02/Pervis_10/Spine_01_5
+        weight: 1
+      - path: shadows/5_2/rotation_02/ANIMATION_02/Pervis_10/Spine_01_5/Spine_02_5
+        weight: 1
+      - path: shadows/5_2/rotation_02/ANIMATION_02/Pervis_10/Spine_01_5/Spine_02_5/L_Arm_01_5
+        weight: 1
+      - path: shadows/5_2/rotation_02/ANIMATION_02/Pervis_10/Spine_01_5/Spine_02_5/L_Arm_01_5/L_Arm_02_5
+        weight: 1
+      - path: shadows/5_2/rotation_02/ANIMATION_02/Pervis_10/Spine_01_5/Spine_02_5/L_Arm_01_5/L_Arm_02_5/L_Arm_03_5
+        weight: 1
+      - path: shadows/5_2/rotation_02/ANIMATION_02/Pervis_10/Spine_01_5/Spine_02_5/L_Arm_01_5/L_Arm_02_5/L_Arm_03_5/L_Arm_04_5
+        weight: 1
+      - path: shadows/5_2/rotation_02/ANIMATION_02/Pervis_10/Spine_01_5/Spine_02_5/L_Arm_01_5/L_Arm_02_5/L_Arm_03_5/L_Arm_04_5/L_Arm_05_5
+        weight: 1
+      - path: shadows/5_2/rotation_02/ANIMATION_02/Pervis_10/Spine_01_5/Spine_02_5/R_Arm_01_5
+        weight: 1
+      - path: shadows/5_2/rotation_02/ANIMATION_02/Pervis_10/Spine_01_5/Spine_02_5/R_Arm_01_5/R_Arm_02_5
+        weight: 1
+      - path: shadows/5_2/rotation_02/ANIMATION_02/Pervis_10/Spine_01_5/Spine_02_5/R_Arm_01_5/R_Arm_02_5/R_Arm_03_5
+        weight: 1
+      - path: shadows/5_2/rotation_02/ANIMATION_02/Pervis_10/Spine_01_5/Spine_02_5/R_Arm_01_5/R_Arm_02_5/R_Arm_03_5/R_Arm_04_5
+        weight: 1
+      - path: shadows/5_2/rotation_02/ANIMATION_02/Pervis_10/Spine_01_5/Spine_02_5/R_Arm_01_5/R_Arm_02_5/R_Arm_03_5/R_Arm_04_5/R_Arm_05_5
+        weight: 1
+      - path: shadows/5_2/rotation_02/ANIMATION_02/Pervis_10/Spine_01_5/Spine_02_5/Spine_03_5
+        weight: 1
+      - path: shadows/5_2/rotation_02/ANIMATION_02/Pervis_10/Spine_01_5/Spine_02_5/Spine_03_5/Spine_04_5
+        weight: 1
+      - path: shadows/5_2/rotation_02/ANIMATION_02/Pervis_10/Spine_01_5/Spine_02_5/Spine_03_5/Spine_04_5/Spine_05_5
+        weight: 1
+      - path: shadows/5_2/rotation_02/ANIMATION_02/Subdivision_Surface_5
+        weight: 1
+      - path: shadows/5_2/rotation_02/ANIMATION_02/Subdivision_Surface_5/Plane_5
+        weight: 1
+      - path: shadows/6_3
+        weight: 1
+      - path: shadows/6_3/rotation_03
+        weight: 1
+      - path: shadows/6_3/rotation_03/ANIMATION_03
+        weight: 1
+      - path: shadows/6_3/rotation_03/ANIMATION_03/Pervis_11
+        weight: 1
+      - path: shadows/6_3/rotation_03/ANIMATION_03/Pervis_11/Head_6
+        weight: 1
+      - path: shadows/6_3/rotation_03/ANIMATION_03/Pervis_11/L_Arm_6
+        weight: 1
+      - path: shadows/6_3/rotation_03/ANIMATION_03/Pervis_11/L_Arm_Pole_6
+        weight: 1
+      - path: shadows/6_3/rotation_03/ANIMATION_03/Pervis_11/L_Leg_6
+        weight: 1
+      - path: shadows/6_3/rotation_03/ANIMATION_03/Pervis_11/L_Leg_Pole_6
+        weight: 1
+      - path: shadows/6_3/rotation_03/ANIMATION_03/Pervis_11/R_Arm_6
+        weight: 1
+      - path: shadows/6_3/rotation_03/ANIMATION_03/Pervis_11/R_Arm_Pole_6
+        weight: 1
+      - path: shadows/6_3/rotation_03/ANIMATION_03/Pervis_11/R_Leg_6
+        weight: 1
+      - path: shadows/6_3/rotation_03/ANIMATION_03/Pervis_11/R_Leg_Pole_6
+        weight: 1
+      - path: shadows/6_3/rotation_03/ANIMATION_03/Pervis_12
+        weight: 1
+      - path: shadows/6_3/rotation_03/ANIMATION_03/Pervis_12/L_Leg_01_6
+        weight: 1
+      - path: shadows/6_3/rotation_03/ANIMATION_03/Pervis_12/L_Leg_01_6/L_Leg_02_6
+        weight: 1
+      - path: shadows/6_3/rotation_03/ANIMATION_03/Pervis_12/L_Leg_01_6/L_Leg_02_6/L_Leg_03_6
+        weight: 1
+      - path: shadows/6_3/rotation_03/ANIMATION_03/Pervis_12/L_Leg_01_6/L_Leg_02_6/L_Leg_03_6/L_Leg_04_6
+        weight: 1
+      - path: shadows/6_3/rotation_03/ANIMATION_03/Pervis_12/L_Leg_01_6/L_Leg_02_6/L_Leg_03_6/L_Leg_04_6/L_Leg_05_6
+        weight: 1
+      - path: shadows/6_3/rotation_03/ANIMATION_03/Pervis_12/R_Leg_01_6
+        weight: 1
+      - path: shadows/6_3/rotation_03/ANIMATION_03/Pervis_12/R_Leg_01_6/R_Leg_02_6
+        weight: 1
+      - path: shadows/6_3/rotation_03/ANIMATION_03/Pervis_12/R_Leg_01_6/R_Leg_02_6/R_Leg_03_6
+        weight: 1
+      - path: shadows/6_3/rotation_03/ANIMATION_03/Pervis_12/R_Leg_01_6/R_Leg_02_6/R_Leg_03_6/R_Leg_04_6
+        weight: 1
+      - path: shadows/6_3/rotation_03/ANIMATION_03/Pervis_12/R_Leg_01_6/R_Leg_02_6/R_Leg_03_6/R_Leg_04_6/R_Leg_05_6
+        weight: 1
+      - path: shadows/6_3/rotation_03/ANIMATION_03/Pervis_12/Spine_01_6
+        weight: 1
+      - path: shadows/6_3/rotation_03/ANIMATION_03/Pervis_12/Spine_01_6/Spine_02_6
+        weight: 1
+      - path: shadows/6_3/rotation_03/ANIMATION_03/Pervis_12/Spine_01_6/Spine_02_6/L_Arm_01_6
+        weight: 1
+      - path: shadows/6_3/rotation_03/ANIMATION_03/Pervis_12/Spine_01_6/Spine_02_6/L_Arm_01_6/L_Arm_02_6
+        weight: 1
+      - path: shadows/6_3/rotation_03/ANIMATION_03/Pervis_12/Spine_01_6/Spine_02_6/L_Arm_01_6/L_Arm_02_6/L_Arm_03_6
+        weight: 1
+      - path: shadows/6_3/rotation_03/ANIMATION_03/Pervis_12/Spine_01_6/Spine_02_6/L_Arm_01_6/L_Arm_02_6/L_Arm_03_6/L_Arm_04_6
+        weight: 1
+      - path: shadows/6_3/rotation_03/ANIMATION_03/Pervis_12/Spine_01_6/Spine_02_6/L_Arm_01_6/L_Arm_02_6/L_Arm_03_6/L_Arm_04_6/L_Arm_05_6
+        weight: 1
+      - path: shadows/6_3/rotation_03/ANIMATION_03/Pervis_12/Spine_01_6/Spine_02_6/R_Arm_01_6
+        weight: 1
+      - path: shadows/6_3/rotation_03/ANIMATION_03/Pervis_12/Spine_01_6/Spine_02_6/R_Arm_01_6/R_Arm_02_6
+        weight: 1
+      - path: shadows/6_3/rotation_03/ANIMATION_03/Pervis_12/Spine_01_6/Spine_02_6/R_Arm_01_6/R_Arm_02_6/R_Arm_03_6
+        weight: 1
+      - path: shadows/6_3/rotation_03/ANIMATION_03/Pervis_12/Spine_01_6/Spine_02_6/R_Arm_01_6/R_Arm_02_6/R_Arm_03_6/R_Arm_04_6
+        weight: 1
+      - path: shadows/6_3/rotation_03/ANIMATION_03/Pervis_12/Spine_01_6/Spine_02_6/R_Arm_01_6/R_Arm_02_6/R_Arm_03_6/R_Arm_04_6/R_Arm_05_6
+        weight: 1
+      - path: shadows/6_3/rotation_03/ANIMATION_03/Pervis_12/Spine_01_6/Spine_02_6/Spine_03_6
+        weight: 1
+      - path: shadows/6_3/rotation_03/ANIMATION_03/Pervis_12/Spine_01_6/Spine_02_6/Spine_03_6/Spine_04_6
+        weight: 1
+      - path: shadows/6_3/rotation_03/ANIMATION_03/Pervis_12/Spine_01_6/Spine_02_6/Spine_03_6/Spine_04_6/Spine_05_6
+        weight: 1
+      - path: shadows/6_3/rotation_03/ANIMATION_03/Subdivision_Surface_6
+        weight: 1
+      - path: shadows/6_3/rotation_03/ANIMATION_03/Subdivision_Surface_6/Plane_6
+        weight: 1
+      - path: shadows/7_1
+        weight: 1
+      - path: shadows/7_1/rotation_01_2
+        weight: 1
+      - path: shadows/7_1/rotation_01_2/ANIMATION_01_2
+        weight: 1
+      - path: shadows/7_1/rotation_01_2/ANIMATION_01_2/Pervis_13
+        weight: 1
+      - path: shadows/7_1/rotation_01_2/ANIMATION_01_2/Pervis_13/Head_7
+        weight: 1
+      - path: shadows/7_1/rotation_01_2/ANIMATION_01_2/Pervis_13/L_Arm_7
+        weight: 1
+      - path: shadows/7_1/rotation_01_2/ANIMATION_01_2/Pervis_13/L_Arm_Pole_7
+        weight: 1
+      - path: shadows/7_1/rotation_01_2/ANIMATION_01_2/Pervis_13/L_Leg_7
+        weight: 1
+      - path: shadows/7_1/rotation_01_2/ANIMATION_01_2/Pervis_13/L_Leg_Pole_7
+        weight: 1
+      - path: shadows/7_1/rotation_01_2/ANIMATION_01_2/Pervis_13/R_Arm_7
+        weight: 1
+      - path: shadows/7_1/rotation_01_2/ANIMATION_01_2/Pervis_13/R_Arm_Pole_7
+        weight: 1
+      - path: shadows/7_1/rotation_01_2/ANIMATION_01_2/Pervis_13/R_Leg_7
+        weight: 1
+      - path: shadows/7_1/rotation_01_2/ANIMATION_01_2/Pervis_13/R_Leg_Pole_7
+        weight: 1
+      - path: shadows/7_1/rotation_01_2/ANIMATION_01_2/Pervis_14
+        weight: 1
+      - path: shadows/7_1/rotation_01_2/ANIMATION_01_2/Pervis_14/L_Leg_01_7
+        weight: 1
+      - path: shadows/7_1/rotation_01_2/ANIMATION_01_2/Pervis_14/L_Leg_01_7/L_Leg_02_7
+        weight: 1
+      - path: shadows/7_1/rotation_01_2/ANIMATION_01_2/Pervis_14/L_Leg_01_7/L_Leg_02_7/L_Leg_03_7
+        weight: 1
+      - path: shadows/7_1/rotation_01_2/ANIMATION_01_2/Pervis_14/L_Leg_01_7/L_Leg_02_7/L_Leg_03_7/L_Leg_04_7
+        weight: 1
+      - path: shadows/7_1/rotation_01_2/ANIMATION_01_2/Pervis_14/L_Leg_01_7/L_Leg_02_7/L_Leg_03_7/L_Leg_04_7/L_Leg_05_7
+        weight: 1
+      - path: shadows/7_1/rotation_01_2/ANIMATION_01_2/Pervis_14/R_Leg_01_7
+        weight: 1
+      - path: shadows/7_1/rotation_01_2/ANIMATION_01_2/Pervis_14/R_Leg_01_7/R_Leg_02_7
+        weight: 1
+      - path: shadows/7_1/rotation_01_2/ANIMATION_01_2/Pervis_14/R_Leg_01_7/R_Leg_02_7/R_Leg_03_7
+        weight: 1
+      - path: shadows/7_1/rotation_01_2/ANIMATION_01_2/Pervis_14/R_Leg_01_7/R_Leg_02_7/R_Leg_03_7/R_Leg_04_7
+        weight: 1
+      - path: shadows/7_1/rotation_01_2/ANIMATION_01_2/Pervis_14/R_Leg_01_7/R_Leg_02_7/R_Leg_03_7/R_Leg_04_7/R_Leg_05_7
+        weight: 1
+      - path: shadows/7_1/rotation_01_2/ANIMATION_01_2/Pervis_14/Spine_01_7
+        weight: 1
+      - path: shadows/7_1/rotation_01_2/ANIMATION_01_2/Pervis_14/Spine_01_7/Spine_02_7
+        weight: 1
+      - path: shadows/7_1/rotation_01_2/ANIMATION_01_2/Pervis_14/Spine_01_7/Spine_02_7/L_Arm_01_7
+        weight: 1
+      - path: shadows/7_1/rotation_01_2/ANIMATION_01_2/Pervis_14/Spine_01_7/Spine_02_7/L_Arm_01_7/L_Arm_02_7
+        weight: 1
+      - path: shadows/7_1/rotation_01_2/ANIMATION_01_2/Pervis_14/Spine_01_7/Spine_02_7/L_Arm_01_7/L_Arm_02_7/L_Arm_03_7
+        weight: 1
+      - path: shadows/7_1/rotation_01_2/ANIMATION_01_2/Pervis_14/Spine_01_7/Spine_02_7/L_Arm_01_7/L_Arm_02_7/L_Arm_03_7/L_Arm_04_7
+        weight: 1
+      - path: shadows/7_1/rotation_01_2/ANIMATION_01_2/Pervis_14/Spine_01_7/Spine_02_7/L_Arm_01_7/L_Arm_02_7/L_Arm_03_7/L_Arm_04_7/L_Arm_05_7
+        weight: 1
+      - path: shadows/7_1/rotation_01_2/ANIMATION_01_2/Pervis_14/Spine_01_7/Spine_02_7/R_Arm_01_7
+        weight: 1
+      - path: shadows/7_1/rotation_01_2/ANIMATION_01_2/Pervis_14/Spine_01_7/Spine_02_7/R_Arm_01_7/R_Arm_02_7
+        weight: 1
+      - path: shadows/7_1/rotation_01_2/ANIMATION_01_2/Pervis_14/Spine_01_7/Spine_02_7/R_Arm_01_7/R_Arm_02_7/R_Arm_03_7
+        weight: 1
+      - path: shadows/7_1/rotation_01_2/ANIMATION_01_2/Pervis_14/Spine_01_7/Spine_02_7/R_Arm_01_7/R_Arm_02_7/R_Arm_03_7/R_Arm_04_7
+        weight: 1
+      - path: shadows/7_1/rotation_01_2/ANIMATION_01_2/Pervis_14/Spine_01_7/Spine_02_7/R_Arm_01_7/R_Arm_02_7/R_Arm_03_7/R_Arm_04_7/R_Arm_05_7
+        weight: 1
+      - path: shadows/7_1/rotation_01_2/ANIMATION_01_2/Pervis_14/Spine_01_7/Spine_02_7/Spine_03_7
+        weight: 1
+      - path: shadows/7_1/rotation_01_2/ANIMATION_01_2/Pervis_14/Spine_01_7/Spine_02_7/Spine_03_7/Spine_04_7
+        weight: 1
+      - path: shadows/7_1/rotation_01_2/ANIMATION_01_2/Pervis_14/Spine_01_7/Spine_02_7/Spine_03_7/Spine_04_7/Spine_05_7
+        weight: 1
+      - path: shadows/7_1/rotation_01_2/ANIMATION_01_2/Subdivision_Surface_7
+        weight: 1
+      - path: shadows/7_1/rotation_01_2/ANIMATION_01_2/Subdivision_Surface_7/Plane_7
+        weight: 1
+      - path: shadows/8_2
+        weight: 1
+      - path: shadows/8_2/rotation_02_2
+        weight: 1
+      - path: shadows/8_2/rotation_02_2/ANIMATION_02_2
+        weight: 1
+      - path: shadows/8_2/rotation_02_2/ANIMATION_02_2/Pervis_15
+        weight: 1
+      - path: shadows/8_2/rotation_02_2/ANIMATION_02_2/Pervis_15/Head_8
+        weight: 1
+      - path: shadows/8_2/rotation_02_2/ANIMATION_02_2/Pervis_15/L_Arm_8
+        weight: 1
+      - path: shadows/8_2/rotation_02_2/ANIMATION_02_2/Pervis_15/L_Arm_Pole_8
+        weight: 1
+      - path: shadows/8_2/rotation_02_2/ANIMATION_02_2/Pervis_15/L_Leg_8
+        weight: 1
+      - path: shadows/8_2/rotation_02_2/ANIMATION_02_2/Pervis_15/L_Leg_Pole_8
+        weight: 1
+      - path: shadows/8_2/rotation_02_2/ANIMATION_02_2/Pervis_15/R_Arm_8
+        weight: 1
+      - path: shadows/8_2/rotation_02_2/ANIMATION_02_2/Pervis_15/R_Arm_Pole_8
+        weight: 1
+      - path: shadows/8_2/rotation_02_2/ANIMATION_02_2/Pervis_15/R_Leg_8
+        weight: 1
+      - path: shadows/8_2/rotation_02_2/ANIMATION_02_2/Pervis_15/R_Leg_Pole_8
+        weight: 1
+      - path: shadows/8_2/rotation_02_2/ANIMATION_02_2/Pervis_16
+        weight: 1
+      - path: shadows/8_2/rotation_02_2/ANIMATION_02_2/Pervis_16/L_Leg_01_8
+        weight: 1
+      - path: shadows/8_2/rotation_02_2/ANIMATION_02_2/Pervis_16/L_Leg_01_8/L_Leg_02_8
+        weight: 1
+      - path: shadows/8_2/rotation_02_2/ANIMATION_02_2/Pervis_16/L_Leg_01_8/L_Leg_02_8/L_Leg_03_8
+        weight: 1
+      - path: shadows/8_2/rotation_02_2/ANIMATION_02_2/Pervis_16/L_Leg_01_8/L_Leg_02_8/L_Leg_03_8/L_Leg_04_8
+        weight: 1
+      - path: shadows/8_2/rotation_02_2/ANIMATION_02_2/Pervis_16/L_Leg_01_8/L_Leg_02_8/L_Leg_03_8/L_Leg_04_8/L_Leg_05_8
+        weight: 1
+      - path: shadows/8_2/rotation_02_2/ANIMATION_02_2/Pervis_16/R_Leg_01_8
+        weight: 1
+      - path: shadows/8_2/rotation_02_2/ANIMATION_02_2/Pervis_16/R_Leg_01_8/R_Leg_02_8
+        weight: 1
+      - path: shadows/8_2/rotation_02_2/ANIMATION_02_2/Pervis_16/R_Leg_01_8/R_Leg_02_8/R_Leg_03_8
+        weight: 1
+      - path: shadows/8_2/rotation_02_2/ANIMATION_02_2/Pervis_16/R_Leg_01_8/R_Leg_02_8/R_Leg_03_8/R_Leg_04_8
+        weight: 1
+      - path: shadows/8_2/rotation_02_2/ANIMATION_02_2/Pervis_16/R_Leg_01_8/R_Leg_02_8/R_Leg_03_8/R_Leg_04_8/R_Leg_05_8
+        weight: 1
+      - path: shadows/8_2/rotation_02_2/ANIMATION_02_2/Pervis_16/Spine_01_8
+        weight: 1
+      - path: shadows/8_2/rotation_02_2/ANIMATION_02_2/Pervis_16/Spine_01_8/Spine_02_8
+        weight: 1
+      - path: shadows/8_2/rotation_02_2/ANIMATION_02_2/Pervis_16/Spine_01_8/Spine_02_8/L_Arm_01_8
+        weight: 1
+      - path: shadows/8_2/rotation_02_2/ANIMATION_02_2/Pervis_16/Spine_01_8/Spine_02_8/L_Arm_01_8/L_Arm_02_8
+        weight: 1
+      - path: shadows/8_2/rotation_02_2/ANIMATION_02_2/Pervis_16/Spine_01_8/Spine_02_8/L_Arm_01_8/L_Arm_02_8/L_Arm_03_8
+        weight: 1
+      - path: shadows/8_2/rotation_02_2/ANIMATION_02_2/Pervis_16/Spine_01_8/Spine_02_8/L_Arm_01_8/L_Arm_02_8/L_Arm_03_8/L_Arm_04_8
+        weight: 1
+      - path: shadows/8_2/rotation_02_2/ANIMATION_02_2/Pervis_16/Spine_01_8/Spine_02_8/L_Arm_01_8/L_Arm_02_8/L_Arm_03_8/L_Arm_04_8/L_Arm_05_8
+        weight: 1
+      - path: shadows/8_2/rotation_02_2/ANIMATION_02_2/Pervis_16/Spine_01_8/Spine_02_8/R_Arm_01_8
+        weight: 1
+      - path: shadows/8_2/rotation_02_2/ANIMATION_02_2/Pervis_16/Spine_01_8/Spine_02_8/R_Arm_01_8/R_Arm_02_8
+        weight: 1
+      - path: shadows/8_2/rotation_02_2/ANIMATION_02_2/Pervis_16/Spine_01_8/Spine_02_8/R_Arm_01_8/R_Arm_02_8/R_Arm_03_8
+        weight: 1
+      - path: shadows/8_2/rotation_02_2/ANIMATION_02_2/Pervis_16/Spine_01_8/Spine_02_8/R_Arm_01_8/R_Arm_02_8/R_Arm_03_8/R_Arm_04_8
+        weight: 1
+      - path: shadows/8_2/rotation_02_2/ANIMATION_02_2/Pervis_16/Spine_01_8/Spine_02_8/R_Arm_01_8/R_Arm_02_8/R_Arm_03_8/R_Arm_04_8/R_Arm_05_8
+        weight: 1
+      - path: shadows/8_2/rotation_02_2/ANIMATION_02_2/Pervis_16/Spine_01_8/Spine_02_8/Spine_03_8
+        weight: 1
+      - path: shadows/8_2/rotation_02_2/ANIMATION_02_2/Pervis_16/Spine_01_8/Spine_02_8/Spine_03_8/Spine_04_8
+        weight: 1
+      - path: shadows/8_2/rotation_02_2/ANIMATION_02_2/Pervis_16/Spine_01_8/Spine_02_8/Spine_03_8/Spine_04_8/Spine_05_8
+        weight: 1
+      - path: shadows/8_2/rotation_02_2/ANIMATION_02_2/Subdivision_Surface_8
+        weight: 1
+      - path: shadows/8_2/rotation_02_2/ANIMATION_02_2/Subdivision_Surface_8/Plane_8
+        weight: 1
+      - path: shadows/9_3
+        weight: 1
+      - path: shadows/9_3/rotation_03_2
+        weight: 1
+      - path: shadows/9_3/rotation_03_2/ANIMATION_03_2
+        weight: 1
+      - path: shadows/9_3/rotation_03_2/ANIMATION_03_2/Pervis_17
+        weight: 1
+      - path: shadows/9_3/rotation_03_2/ANIMATION_03_2/Pervis_17/Head_9
+        weight: 1
+      - path: shadows/9_3/rotation_03_2/ANIMATION_03_2/Pervis_17/L_Arm_9
+        weight: 1
+      - path: shadows/9_3/rotation_03_2/ANIMATION_03_2/Pervis_17/L_Arm_Pole_9
+        weight: 1
+      - path: shadows/9_3/rotation_03_2/ANIMATION_03_2/Pervis_17/L_Leg_9
+        weight: 1
+      - path: shadows/9_3/rotation_03_2/ANIMATION_03_2/Pervis_17/L_Leg_Pole_9
+        weight: 1
+      - path: shadows/9_3/rotation_03_2/ANIMATION_03_2/Pervis_17/R_Arm_9
+        weight: 1
+      - path: shadows/9_3/rotation_03_2/ANIMATION_03_2/Pervis_17/R_Arm_Pole_9
+        weight: 1
+      - path: shadows/9_3/rotation_03_2/ANIMATION_03_2/Pervis_17/R_Leg_9
+        weight: 1
+      - path: shadows/9_3/rotation_03_2/ANIMATION_03_2/Pervis_17/R_Leg_Pole_9
+        weight: 1
+      - path: shadows/9_3/rotation_03_2/ANIMATION_03_2/Pervis_18
+        weight: 1
+      - path: shadows/9_3/rotation_03_2/ANIMATION_03_2/Pervis_18/L_Leg_01_9
+        weight: 1
+      - path: shadows/9_3/rotation_03_2/ANIMATION_03_2/Pervis_18/L_Leg_01_9/L_Leg_02_9
+        weight: 1
+      - path: shadows/9_3/rotation_03_2/ANIMATION_03_2/Pervis_18/L_Leg_01_9/L_Leg_02_9/L_Leg_03_9
+        weight: 1
+      - path: shadows/9_3/rotation_03_2/ANIMATION_03_2/Pervis_18/L_Leg_01_9/L_Leg_02_9/L_Leg_03_9/L_Leg_04_9
+        weight: 1
+      - path: shadows/9_3/rotation_03_2/ANIMATION_03_2/Pervis_18/L_Leg_01_9/L_Leg_02_9/L_Leg_03_9/L_Leg_04_9/L_Leg_05_9
+        weight: 1
+      - path: shadows/9_3/rotation_03_2/ANIMATION_03_2/Pervis_18/R_Leg_01_9
+        weight: 1
+      - path: shadows/9_3/rotation_03_2/ANIMATION_03_2/Pervis_18/R_Leg_01_9/R_Leg_02_9
+        weight: 1
+      - path: shadows/9_3/rotation_03_2/ANIMATION_03_2/Pervis_18/R_Leg_01_9/R_Leg_02_9/R_Leg_03_9
+        weight: 1
+      - path: shadows/9_3/rotation_03_2/ANIMATION_03_2/Pervis_18/R_Leg_01_9/R_Leg_02_9/R_Leg_03_9/R_Leg_04_9
+        weight: 1
+      - path: shadows/9_3/rotation_03_2/ANIMATION_03_2/Pervis_18/R_Leg_01_9/R_Leg_02_9/R_Leg_03_9/R_Leg_04_9/R_Leg_05_9
+        weight: 1
+      - path: shadows/9_3/rotation_03_2/ANIMATION_03_2/Pervis_18/Spine_01_9
+        weight: 1
+      - path: shadows/9_3/rotation_03_2/ANIMATION_03_2/Pervis_18/Spine_01_9/Spine_02_9
+        weight: 1
+      - path: shadows/9_3/rotation_03_2/ANIMATION_03_2/Pervis_18/Spine_01_9/Spine_02_9/L_Arm_01_9
+        weight: 1
+      - path: shadows/9_3/rotation_03_2/ANIMATION_03_2/Pervis_18/Spine_01_9/Spine_02_9/L_Arm_01_9/L_Arm_02_9
+        weight: 1
+      - path: shadows/9_3/rotation_03_2/ANIMATION_03_2/Pervis_18/Spine_01_9/Spine_02_9/L_Arm_01_9/L_Arm_02_9/L_Arm_03_9
+        weight: 1
+      - path: shadows/9_3/rotation_03_2/ANIMATION_03_2/Pervis_18/Spine_01_9/Spine_02_9/L_Arm_01_9/L_Arm_02_9/L_Arm_03_9/L_Arm_04_9
+        weight: 1
+      - path: shadows/9_3/rotation_03_2/ANIMATION_03_2/Pervis_18/Spine_01_9/Spine_02_9/L_Arm_01_9/L_Arm_02_9/L_Arm_03_9/L_Arm_04_9/L_Arm_05_9
+        weight: 1
+      - path: shadows/9_3/rotation_03_2/ANIMATION_03_2/Pervis_18/Spine_01_9/Spine_02_9/R_Arm_01_9
+        weight: 1
+      - path: shadows/9_3/rotation_03_2/ANIMATION_03_2/Pervis_18/Spine_01_9/Spine_02_9/R_Arm_01_9/R_Arm_02_9
+        weight: 1
+      - path: shadows/9_3/rotation_03_2/ANIMATION_03_2/Pervis_18/Spine_01_9/Spine_02_9/R_Arm_01_9/R_Arm_02_9/R_Arm_03_9
+        weight: 1
+      - path: shadows/9_3/rotation_03_2/ANIMATION_03_2/Pervis_18/Spine_01_9/Spine_02_9/R_Arm_01_9/R_Arm_02_9/R_Arm_03_9/R_Arm_04_9
+        weight: 1
+      - path: shadows/9_3/rotation_03_2/ANIMATION_03_2/Pervis_18/Spine_01_9/Spine_02_9/R_Arm_01_9/R_Arm_02_9/R_Arm_03_9/R_Arm_04_9/R_Arm_05_9
+        weight: 1
+      - path: shadows/9_3/rotation_03_2/ANIMATION_03_2/Pervis_18/Spine_01_9/Spine_02_9/Spine_03_9
+        weight: 1
+      - path: shadows/9_3/rotation_03_2/ANIMATION_03_2/Pervis_18/Spine_01_9/Spine_02_9/Spine_03_9/Spine_04_9
+        weight: 1
+      - path: shadows/9_3/rotation_03_2/ANIMATION_03_2/Pervis_18/Spine_01_9/Spine_02_9/Spine_03_9/Spine_04_9/Spine_05_9
+        weight: 1
+      - path: shadows/9_3/rotation_03_2/ANIMATION_03_2/Subdivision_Surface_9
+        weight: 1
+      - path: shadows/9_3/rotation_03_2/ANIMATION_03_2/Subdivision_Surface_9/Plane_9
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: shadow_dance
+      takeName: C4D Animation Take
+      firstFrame: 410
+      lastFrame: 609
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: shadows
+        weight: 1
+      - path: shadows/1_M
+        weight: 1
+      - path: shadows/1_M/rotation_01_M
+        weight: 1
+      - path: shadows/1_M/rotation_01_M/ANIMATION_01_M
+        weight: 1
+      - path: shadows/1_M/rotation_01_M/ANIMATION_01_M/Pervis
+        weight: 1
+      - path: shadows/1_M/rotation_01_M/ANIMATION_01_M/Pervis/Head
+        weight: 1
+      - path: shadows/1_M/rotation_01_M/ANIMATION_01_M/Pervis/L_Arm
+        weight: 1
+      - path: shadows/1_M/rotation_01_M/ANIMATION_01_M/Pervis/L_Arm_Pole
+        weight: 1
+      - path: shadows/1_M/rotation_01_M/ANIMATION_01_M/Pervis/L_Leg
+        weight: 1
+      - path: shadows/1_M/rotation_01_M/ANIMATION_01_M/Pervis/L_Leg_Pole
+        weight: 1
+      - path: shadows/1_M/rotation_01_M/ANIMATION_01_M/Pervis/R_Arm
+        weight: 1
+      - path: shadows/1_M/rotation_01_M/ANIMATION_01_M/Pervis/R_Arm_Pole
+        weight: 1
+      - path: shadows/1_M/rotation_01_M/ANIMATION_01_M/Pervis/R_Leg
+        weight: 1
+      - path: shadows/1_M/rotation_01_M/ANIMATION_01_M/Pervis/R_Leg_Pole
+        weight: 1
+      - path: shadows/1_M/rotation_01_M/ANIMATION_01_M/Pervis_2
+        weight: 1
+      - path: shadows/1_M/rotation_01_M/ANIMATION_01_M/Pervis_2/L_Leg_01
+        weight: 1
+      - path: shadows/1_M/rotation_01_M/ANIMATION_01_M/Pervis_2/L_Leg_01/L_Leg_02
+        weight: 1
+      - path: shadows/1_M/rotation_01_M/ANIMATION_01_M/Pervis_2/L_Leg_01/L_Leg_02/L_Leg_03
+        weight: 1
+      - path: shadows/1_M/rotation_01_M/ANIMATION_01_M/Pervis_2/L_Leg_01/L_Leg_02/L_Leg_03/L_Leg_04
+        weight: 1
+      - path: shadows/1_M/rotation_01_M/ANIMATION_01_M/Pervis_2/L_Leg_01/L_Leg_02/L_Leg_03/L_Leg_04/L_Leg_05
+        weight: 1
+      - path: shadows/1_M/rotation_01_M/ANIMATION_01_M/Pervis_2/R_Leg_01
+        weight: 1
+      - path: shadows/1_M/rotation_01_M/ANIMATION_01_M/Pervis_2/R_Leg_01/R_Leg_02
+        weight: 1
+      - path: shadows/1_M/rotation_01_M/ANIMATION_01_M/Pervis_2/R_Leg_01/R_Leg_02/R_Leg_03
+        weight: 1
+      - path: shadows/1_M/rotation_01_M/ANIMATION_01_M/Pervis_2/R_Leg_01/R_Leg_02/R_Leg_03/R_Leg_04
+        weight: 1
+      - path: shadows/1_M/rotation_01_M/ANIMATION_01_M/Pervis_2/R_Leg_01/R_Leg_02/R_Leg_03/R_Leg_04/R_Leg_05
+        weight: 1
+      - path: shadows/1_M/rotation_01_M/ANIMATION_01_M/Pervis_2/Spine_01
+        weight: 1
+      - path: shadows/1_M/rotation_01_M/ANIMATION_01_M/Pervis_2/Spine_01/Spine_02
+        weight: 1
+      - path: shadows/1_M/rotation_01_M/ANIMATION_01_M/Pervis_2/Spine_01/Spine_02/L_Arm_01
+        weight: 1
+      - path: shadows/1_M/rotation_01_M/ANIMATION_01_M/Pervis_2/Spine_01/Spine_02/L_Arm_01/L_Arm_02
+        weight: 1
+      - path: shadows/1_M/rotation_01_M/ANIMATION_01_M/Pervis_2/Spine_01/Spine_02/L_Arm_01/L_Arm_02/L_Arm_03
+        weight: 1
+      - path: shadows/1_M/rotation_01_M/ANIMATION_01_M/Pervis_2/Spine_01/Spine_02/L_Arm_01/L_Arm_02/L_Arm_03/L_Arm_04
+        weight: 1
+      - path: shadows/1_M/rotation_01_M/ANIMATION_01_M/Pervis_2/Spine_01/Spine_02/L_Arm_01/L_Arm_02/L_Arm_03/L_Arm_04/L_Arm_05
+        weight: 1
+      - path: shadows/1_M/rotation_01_M/ANIMATION_01_M/Pervis_2/Spine_01/Spine_02/R_Arm_01
+        weight: 1
+      - path: shadows/1_M/rotation_01_M/ANIMATION_01_M/Pervis_2/Spine_01/Spine_02/R_Arm_01/R_Arm_02
+        weight: 1
+      - path: shadows/1_M/rotation_01_M/ANIMATION_01_M/Pervis_2/Spine_01/Spine_02/R_Arm_01/R_Arm_02/R_Arm_03
+        weight: 1
+      - path: shadows/1_M/rotation_01_M/ANIMATION_01_M/Pervis_2/Spine_01/Spine_02/R_Arm_01/R_Arm_02/R_Arm_03/R_Arm_04
+        weight: 1
+      - path: shadows/1_M/rotation_01_M/ANIMATION_01_M/Pervis_2/Spine_01/Spine_02/R_Arm_01/R_Arm_02/R_Arm_03/R_Arm_04/R_Arm_05
+        weight: 1
+      - path: shadows/1_M/rotation_01_M/ANIMATION_01_M/Pervis_2/Spine_01/Spine_02/Spine_03
+        weight: 1
+      - path: shadows/1_M/rotation_01_M/ANIMATION_01_M/Pervis_2/Spine_01/Spine_02/Spine_03/Spine_04
+        weight: 1
+      - path: shadows/1_M/rotation_01_M/ANIMATION_01_M/Pervis_2/Spine_01/Spine_02/Spine_03/Spine_04/Spine_05
+        weight: 1
+      - path: shadows/1_M/rotation_01_M/ANIMATION_01_M/Subdivision_Surface
+        weight: 1
+      - path: shadows/1_M/rotation_01_M/ANIMATION_01_M/Subdivision_Surface/Plane
+        weight: 1
+      - path: shadows/2_M
+        weight: 1
+      - path: shadows/2_M/rotation_02_M
+        weight: 1
+      - path: shadows/2_M/rotation_02_M/ANIMATION_02_M
+        weight: 1
+      - path: shadows/2_M/rotation_02_M/ANIMATION_02_M/Pervis_3
+        weight: 1
+      - path: shadows/2_M/rotation_02_M/ANIMATION_02_M/Pervis_3/Head_2
+        weight: 1
+      - path: shadows/2_M/rotation_02_M/ANIMATION_02_M/Pervis_3/L_Arm_2
+        weight: 1
+      - path: shadows/2_M/rotation_02_M/ANIMATION_02_M/Pervis_3/L_Arm_Pole_2
+        weight: 1
+      - path: shadows/2_M/rotation_02_M/ANIMATION_02_M/Pervis_3/L_Leg_2
+        weight: 1
+      - path: shadows/2_M/rotation_02_M/ANIMATION_02_M/Pervis_3/L_Leg_Pole_2
+        weight: 1
+      - path: shadows/2_M/rotation_02_M/ANIMATION_02_M/Pervis_3/R_Arm_2
+        weight: 1
+      - path: shadows/2_M/rotation_02_M/ANIMATION_02_M/Pervis_3/R_Arm_Pole_2
+        weight: 1
+      - path: shadows/2_M/rotation_02_M/ANIMATION_02_M/Pervis_3/R_Leg_2
+        weight: 1
+      - path: shadows/2_M/rotation_02_M/ANIMATION_02_M/Pervis_3/R_Leg_Pole_2
+        weight: 1
+      - path: shadows/2_M/rotation_02_M/ANIMATION_02_M/Pervis_4
+        weight: 1
+      - path: shadows/2_M/rotation_02_M/ANIMATION_02_M/Pervis_4/L_Leg_01_2
+        weight: 1
+      - path: shadows/2_M/rotation_02_M/ANIMATION_02_M/Pervis_4/L_Leg_01_2/L_Leg_02_2
+        weight: 1
+      - path: shadows/2_M/rotation_02_M/ANIMATION_02_M/Pervis_4/L_Leg_01_2/L_Leg_02_2/L_Leg_03_2
+        weight: 1
+      - path: shadows/2_M/rotation_02_M/ANIMATION_02_M/Pervis_4/L_Leg_01_2/L_Leg_02_2/L_Leg_03_2/L_Leg_04_2
+        weight: 1
+      - path: shadows/2_M/rotation_02_M/ANIMATION_02_M/Pervis_4/L_Leg_01_2/L_Leg_02_2/L_Leg_03_2/L_Leg_04_2/L_Leg_05_2
+        weight: 1
+      - path: shadows/2_M/rotation_02_M/ANIMATION_02_M/Pervis_4/R_Leg_01_2
+        weight: 1
+      - path: shadows/2_M/rotation_02_M/ANIMATION_02_M/Pervis_4/R_Leg_01_2/R_Leg_02_2
+        weight: 1
+      - path: shadows/2_M/rotation_02_M/ANIMATION_02_M/Pervis_4/R_Leg_01_2/R_Leg_02_2/R_Leg_03_2
+        weight: 1
+      - path: shadows/2_M/rotation_02_M/ANIMATION_02_M/Pervis_4/R_Leg_01_2/R_Leg_02_2/R_Leg_03_2/R_Leg_04_2
+        weight: 1
+      - path: shadows/2_M/rotation_02_M/ANIMATION_02_M/Pervis_4/R_Leg_01_2/R_Leg_02_2/R_Leg_03_2/R_Leg_04_2/R_Leg_05_2
+        weight: 1
+      - path: shadows/2_M/rotation_02_M/ANIMATION_02_M/Pervis_4/Spine_01_2
+        weight: 1
+      - path: shadows/2_M/rotation_02_M/ANIMATION_02_M/Pervis_4/Spine_01_2/Spine_02_2
+        weight: 1
+      - path: shadows/2_M/rotation_02_M/ANIMATION_02_M/Pervis_4/Spine_01_2/Spine_02_2/L_Arm_01_2
+        weight: 1
+      - path: shadows/2_M/rotation_02_M/ANIMATION_02_M/Pervis_4/Spine_01_2/Spine_02_2/L_Arm_01_2/L_Arm_02_2
+        weight: 1
+      - path: shadows/2_M/rotation_02_M/ANIMATION_02_M/Pervis_4/Spine_01_2/Spine_02_2/L_Arm_01_2/L_Arm_02_2/L_Arm_03_2
+        weight: 1
+      - path: shadows/2_M/rotation_02_M/ANIMATION_02_M/Pervis_4/Spine_01_2/Spine_02_2/L_Arm_01_2/L_Arm_02_2/L_Arm_03_2/L_Arm_04_2
+        weight: 1
+      - path: shadows/2_M/rotation_02_M/ANIMATION_02_M/Pervis_4/Spine_01_2/Spine_02_2/L_Arm_01_2/L_Arm_02_2/L_Arm_03_2/L_Arm_04_2/L_Arm_05_2
+        weight: 1
+      - path: shadows/2_M/rotation_02_M/ANIMATION_02_M/Pervis_4/Spine_01_2/Spine_02_2/R_Arm_01_2
+        weight: 1
+      - path: shadows/2_M/rotation_02_M/ANIMATION_02_M/Pervis_4/Spine_01_2/Spine_02_2/R_Arm_01_2/R_Arm_02_2
+        weight: 1
+      - path: shadows/2_M/rotation_02_M/ANIMATION_02_M/Pervis_4/Spine_01_2/Spine_02_2/R_Arm_01_2/R_Arm_02_2/R_Arm_03_2
+        weight: 1
+      - path: shadows/2_M/rotation_02_M/ANIMATION_02_M/Pervis_4/Spine_01_2/Spine_02_2/R_Arm_01_2/R_Arm_02_2/R_Arm_03_2/R_Arm_04_2
+        weight: 1
+      - path: shadows/2_M/rotation_02_M/ANIMATION_02_M/Pervis_4/Spine_01_2/Spine_02_2/R_Arm_01_2/R_Arm_02_2/R_Arm_03_2/R_Arm_04_2/R_Arm_05_2
+        weight: 1
+      - path: shadows/2_M/rotation_02_M/ANIMATION_02_M/Pervis_4/Spine_01_2/Spine_02_2/Spine_03_2
+        weight: 1
+      - path: shadows/2_M/rotation_02_M/ANIMATION_02_M/Pervis_4/Spine_01_2/Spine_02_2/Spine_03_2/Spine_04_2
+        weight: 1
+      - path: shadows/2_M/rotation_02_M/ANIMATION_02_M/Pervis_4/Spine_01_2/Spine_02_2/Spine_03_2/Spine_04_2/Spine_05_2
+        weight: 1
+      - path: shadows/2_M/rotation_02_M/ANIMATION_02_M/Subdivision_Surface_2
+        weight: 1
+      - path: shadows/2_M/rotation_02_M/ANIMATION_02_M/Subdivision_Surface_2/Plane_2
+        weight: 1
+      - path: shadows/3_M
+        weight: 1
+      - path: shadows/3_M/rotation_03_M
+        weight: 1
+      - path: shadows/3_M/rotation_03_M/ANIMATION_03_M
+        weight: 1
+      - path: shadows/3_M/rotation_03_M/ANIMATION_03_M/Pervis_5
+        weight: 1
+      - path: shadows/3_M/rotation_03_M/ANIMATION_03_M/Pervis_5/Head_3
+        weight: 1
+      - path: shadows/3_M/rotation_03_M/ANIMATION_03_M/Pervis_5/L_Arm_3
+        weight: 1
+      - path: shadows/3_M/rotation_03_M/ANIMATION_03_M/Pervis_5/L_Arm_Pole_3
+        weight: 1
+      - path: shadows/3_M/rotation_03_M/ANIMATION_03_M/Pervis_5/L_Leg_3
+        weight: 1
+      - path: shadows/3_M/rotation_03_M/ANIMATION_03_M/Pervis_5/L_Leg_Pole_3
+        weight: 1
+      - path: shadows/3_M/rotation_03_M/ANIMATION_03_M/Pervis_5/R_Arm_3
+        weight: 1
+      - path: shadows/3_M/rotation_03_M/ANIMATION_03_M/Pervis_5/R_Arm_Pole_3
+        weight: 1
+      - path: shadows/3_M/rotation_03_M/ANIMATION_03_M/Pervis_5/R_Leg_3
+        weight: 1
+      - path: shadows/3_M/rotation_03_M/ANIMATION_03_M/Pervis_5/R_Leg_Pole_3
+        weight: 1
+      - path: shadows/3_M/rotation_03_M/ANIMATION_03_M/Pervis_6
+        weight: 1
+      - path: shadows/3_M/rotation_03_M/ANIMATION_03_M/Pervis_6/L_Leg_01_3
+        weight: 1
+      - path: shadows/3_M/rotation_03_M/ANIMATION_03_M/Pervis_6/L_Leg_01_3/L_Leg_02_3
+        weight: 1
+      - path: shadows/3_M/rotation_03_M/ANIMATION_03_M/Pervis_6/L_Leg_01_3/L_Leg_02_3/L_Leg_03_3
+        weight: 1
+      - path: shadows/3_M/rotation_03_M/ANIMATION_03_M/Pervis_6/L_Leg_01_3/L_Leg_02_3/L_Leg_03_3/L_Leg_04_3
+        weight: 1
+      - path: shadows/3_M/rotation_03_M/ANIMATION_03_M/Pervis_6/L_Leg_01_3/L_Leg_02_3/L_Leg_03_3/L_Leg_04_3/L_Leg_05_3
+        weight: 1
+      - path: shadows/3_M/rotation_03_M/ANIMATION_03_M/Pervis_6/R_Leg_01_3
+        weight: 1
+      - path: shadows/3_M/rotation_03_M/ANIMATION_03_M/Pervis_6/R_Leg_01_3/R_Leg_02_3
+        weight: 1
+      - path: shadows/3_M/rotation_03_M/ANIMATION_03_M/Pervis_6/R_Leg_01_3/R_Leg_02_3/R_Leg_03_3
+        weight: 1
+      - path: shadows/3_M/rotation_03_M/ANIMATION_03_M/Pervis_6/R_Leg_01_3/R_Leg_02_3/R_Leg_03_3/R_Leg_04_3
+        weight: 1
+      - path: shadows/3_M/rotation_03_M/ANIMATION_03_M/Pervis_6/R_Leg_01_3/R_Leg_02_3/R_Leg_03_3/R_Leg_04_3/R_Leg_05_3
+        weight: 1
+      - path: shadows/3_M/rotation_03_M/ANIMATION_03_M/Pervis_6/Spine_01_3
+        weight: 1
+      - path: shadows/3_M/rotation_03_M/ANIMATION_03_M/Pervis_6/Spine_01_3/Spine_02_3
+        weight: 1
+      - path: shadows/3_M/rotation_03_M/ANIMATION_03_M/Pervis_6/Spine_01_3/Spine_02_3/L_Arm_01_3
+        weight: 1
+      - path: shadows/3_M/rotation_03_M/ANIMATION_03_M/Pervis_6/Spine_01_3/Spine_02_3/L_Arm_01_3/L_Arm_02_3
+        weight: 1
+      - path: shadows/3_M/rotation_03_M/ANIMATION_03_M/Pervis_6/Spine_01_3/Spine_02_3/L_Arm_01_3/L_Arm_02_3/L_Arm_03_3
+        weight: 1
+      - path: shadows/3_M/rotation_03_M/ANIMATION_03_M/Pervis_6/Spine_01_3/Spine_02_3/L_Arm_01_3/L_Arm_02_3/L_Arm_03_3/L_Arm_04_3
+        weight: 1
+      - path: shadows/3_M/rotation_03_M/ANIMATION_03_M/Pervis_6/Spine_01_3/Spine_02_3/L_Arm_01_3/L_Arm_02_3/L_Arm_03_3/L_Arm_04_3/L_Arm_05_3
+        weight: 1
+      - path: shadows/3_M/rotation_03_M/ANIMATION_03_M/Pervis_6/Spine_01_3/Spine_02_3/R_Arm_01_3
+        weight: 1
+      - path: shadows/3_M/rotation_03_M/ANIMATION_03_M/Pervis_6/Spine_01_3/Spine_02_3/R_Arm_01_3/R_Arm_02_3
+        weight: 1
+      - path: shadows/3_M/rotation_03_M/ANIMATION_03_M/Pervis_6/Spine_01_3/Spine_02_3/R_Arm_01_3/R_Arm_02_3/R_Arm_03_3
+        weight: 1
+      - path: shadows/3_M/rotation_03_M/ANIMATION_03_M/Pervis_6/Spine_01_3/Spine_02_3/R_Arm_01_3/R_Arm_02_3/R_Arm_03_3/R_Arm_04_3
+        weight: 1
+      - path: shadows/3_M/rotation_03_M/ANIMATION_03_M/Pervis_6/Spine_01_3/Spine_02_3/R_Arm_01_3/R_Arm_02_3/R_Arm_03_3/R_Arm_04_3/R_Arm_05_3
+        weight: 1
+      - path: shadows/3_M/rotation_03_M/ANIMATION_03_M/Pervis_6/Spine_01_3/Spine_02_3/Spine_03_3
+        weight: 1
+      - path: shadows/3_M/rotation_03_M/ANIMATION_03_M/Pervis_6/Spine_01_3/Spine_02_3/Spine_03_3/Spine_04_3
+        weight: 1
+      - path: shadows/3_M/rotation_03_M/ANIMATION_03_M/Pervis_6/Spine_01_3/Spine_02_3/Spine_03_3/Spine_04_3/Spine_05_3
+        weight: 1
+      - path: shadows/3_M/rotation_03_M/ANIMATION_03_M/Subdivision_Surface_3
+        weight: 1
+      - path: shadows/3_M/rotation_03_M/ANIMATION_03_M/Subdivision_Surface_3/Plane_3
+        weight: 1
+      - path: shadows/4_1
+        weight: 1
+      - path: shadows/4_1/rotation_01
+        weight: 1
+      - path: shadows/4_1/rotation_01/ANIMATION_01
+        weight: 1
+      - path: shadows/4_1/rotation_01/ANIMATION_01/Pervis_7
+        weight: 1
+      - path: shadows/4_1/rotation_01/ANIMATION_01/Pervis_7/Head_4
+        weight: 1
+      - path: shadows/4_1/rotation_01/ANIMATION_01/Pervis_7/L_Arm_4
+        weight: 1
+      - path: shadows/4_1/rotation_01/ANIMATION_01/Pervis_7/L_Arm_Pole_4
+        weight: 1
+      - path: shadows/4_1/rotation_01/ANIMATION_01/Pervis_7/L_Leg_4
+        weight: 1
+      - path: shadows/4_1/rotation_01/ANIMATION_01/Pervis_7/L_Leg_Pole_4
+        weight: 1
+      - path: shadows/4_1/rotation_01/ANIMATION_01/Pervis_7/R_Arm_4
+        weight: 1
+      - path: shadows/4_1/rotation_01/ANIMATION_01/Pervis_7/R_Arm_Pole_4
+        weight: 1
+      - path: shadows/4_1/rotation_01/ANIMATION_01/Pervis_7/R_Leg_4
+        weight: 1
+      - path: shadows/4_1/rotation_01/ANIMATION_01/Pervis_7/R_Leg_Pole_4
+        weight: 1
+      - path: shadows/4_1/rotation_01/ANIMATION_01/Pervis_8
+        weight: 1
+      - path: shadows/4_1/rotation_01/ANIMATION_01/Pervis_8/L_Leg_01_4
+        weight: 1
+      - path: shadows/4_1/rotation_01/ANIMATION_01/Pervis_8/L_Leg_01_4/L_Leg_02_4
+        weight: 1
+      - path: shadows/4_1/rotation_01/ANIMATION_01/Pervis_8/L_Leg_01_4/L_Leg_02_4/L_Leg_03_4
+        weight: 1
+      - path: shadows/4_1/rotation_01/ANIMATION_01/Pervis_8/L_Leg_01_4/L_Leg_02_4/L_Leg_03_4/L_Leg_04_4
+        weight: 1
+      - path: shadows/4_1/rotation_01/ANIMATION_01/Pervis_8/L_Leg_01_4/L_Leg_02_4/L_Leg_03_4/L_Leg_04_4/L_Leg_05_4
+        weight: 1
+      - path: shadows/4_1/rotation_01/ANIMATION_01/Pervis_8/R_Leg_01_4
+        weight: 1
+      - path: shadows/4_1/rotation_01/ANIMATION_01/Pervis_8/R_Leg_01_4/R_Leg_02_4
+        weight: 1
+      - path: shadows/4_1/rotation_01/ANIMATION_01/Pervis_8/R_Leg_01_4/R_Leg_02_4/R_Leg_03_4
+        weight: 1
+      - path: shadows/4_1/rotation_01/ANIMATION_01/Pervis_8/R_Leg_01_4/R_Leg_02_4/R_Leg_03_4/R_Leg_04_4
+        weight: 1
+      - path: shadows/4_1/rotation_01/ANIMATION_01/Pervis_8/R_Leg_01_4/R_Leg_02_4/R_Leg_03_4/R_Leg_04_4/R_Leg_05_4
+        weight: 1
+      - path: shadows/4_1/rotation_01/ANIMATION_01/Pervis_8/Spine_01_4
+        weight: 1
+      - path: shadows/4_1/rotation_01/ANIMATION_01/Pervis_8/Spine_01_4/Spine_02_4
+        weight: 1
+      - path: shadows/4_1/rotation_01/ANIMATION_01/Pervis_8/Spine_01_4/Spine_02_4/L_Arm_01_4
+        weight: 1
+      - path: shadows/4_1/rotation_01/ANIMATION_01/Pervis_8/Spine_01_4/Spine_02_4/L_Arm_01_4/L_Arm_02_4
+        weight: 1
+      - path: shadows/4_1/rotation_01/ANIMATION_01/Pervis_8/Spine_01_4/Spine_02_4/L_Arm_01_4/L_Arm_02_4/L_Arm_03_4
+        weight: 1
+      - path: shadows/4_1/rotation_01/ANIMATION_01/Pervis_8/Spine_01_4/Spine_02_4/L_Arm_01_4/L_Arm_02_4/L_Arm_03_4/L_Arm_04_4
+        weight: 1
+      - path: shadows/4_1/rotation_01/ANIMATION_01/Pervis_8/Spine_01_4/Spine_02_4/L_Arm_01_4/L_Arm_02_4/L_Arm_03_4/L_Arm_04_4/L_Arm_05_4
+        weight: 1
+      - path: shadows/4_1/rotation_01/ANIMATION_01/Pervis_8/Spine_01_4/Spine_02_4/R_Arm_01_4
+        weight: 1
+      - path: shadows/4_1/rotation_01/ANIMATION_01/Pervis_8/Spine_01_4/Spine_02_4/R_Arm_01_4/R_Arm_02_4
+        weight: 1
+      - path: shadows/4_1/rotation_01/ANIMATION_01/Pervis_8/Spine_01_4/Spine_02_4/R_Arm_01_4/R_Arm_02_4/R_Arm_03_4
+        weight: 1
+      - path: shadows/4_1/rotation_01/ANIMATION_01/Pervis_8/Spine_01_4/Spine_02_4/R_Arm_01_4/R_Arm_02_4/R_Arm_03_4/R_Arm_04_4
+        weight: 1
+      - path: shadows/4_1/rotation_01/ANIMATION_01/Pervis_8/Spine_01_4/Spine_02_4/R_Arm_01_4/R_Arm_02_4/R_Arm_03_4/R_Arm_04_4/R_Arm_05_4
+        weight: 1
+      - path: shadows/4_1/rotation_01/ANIMATION_01/Pervis_8/Spine_01_4/Spine_02_4/Spine_03_4
+        weight: 1
+      - path: shadows/4_1/rotation_01/ANIMATION_01/Pervis_8/Spine_01_4/Spine_02_4/Spine_03_4/Spine_04_4
+        weight: 1
+      - path: shadows/4_1/rotation_01/ANIMATION_01/Pervis_8/Spine_01_4/Spine_02_4/Spine_03_4/Spine_04_4/Spine_05_4
+        weight: 1
+      - path: shadows/4_1/rotation_01/ANIMATION_01/Subdivision_Surface_4
+        weight: 1
+      - path: shadows/4_1/rotation_01/ANIMATION_01/Subdivision_Surface_4/Plane_4
+        weight: 1
+      - path: shadows/5_2
+        weight: 1
+      - path: shadows/5_2/rotation_02
+        weight: 1
+      - path: shadows/5_2/rotation_02/ANIMATION_02
+        weight: 1
+      - path: shadows/5_2/rotation_02/ANIMATION_02/Pervis_9
+        weight: 1
+      - path: shadows/5_2/rotation_02/ANIMATION_02/Pervis_9/Head_5
+        weight: 1
+      - path: shadows/5_2/rotation_02/ANIMATION_02/Pervis_9/L_Arm_5
+        weight: 1
+      - path: shadows/5_2/rotation_02/ANIMATION_02/Pervis_9/L_Arm_Pole_5
+        weight: 1
+      - path: shadows/5_2/rotation_02/ANIMATION_02/Pervis_9/L_Leg_5
+        weight: 1
+      - path: shadows/5_2/rotation_02/ANIMATION_02/Pervis_9/L_Leg_Pole_5
+        weight: 1
+      - path: shadows/5_2/rotation_02/ANIMATION_02/Pervis_9/R_Arm_5
+        weight: 1
+      - path: shadows/5_2/rotation_02/ANIMATION_02/Pervis_9/R_Arm_Pole_5
+        weight: 1
+      - path: shadows/5_2/rotation_02/ANIMATION_02/Pervis_9/R_Leg_5
+        weight: 1
+      - path: shadows/5_2/rotation_02/ANIMATION_02/Pervis_9/R_Leg_Pole_5
+        weight: 1
+      - path: shadows/5_2/rotation_02/ANIMATION_02/Pervis_10
+        weight: 1
+      - path: shadows/5_2/rotation_02/ANIMATION_02/Pervis_10/L_Leg_01_5
+        weight: 1
+      - path: shadows/5_2/rotation_02/ANIMATION_02/Pervis_10/L_Leg_01_5/L_Leg_02_5
+        weight: 1
+      - path: shadows/5_2/rotation_02/ANIMATION_02/Pervis_10/L_Leg_01_5/L_Leg_02_5/L_Leg_03_5
+        weight: 1
+      - path: shadows/5_2/rotation_02/ANIMATION_02/Pervis_10/L_Leg_01_5/L_Leg_02_5/L_Leg_03_5/L_Leg_04_5
+        weight: 1
+      - path: shadows/5_2/rotation_02/ANIMATION_02/Pervis_10/L_Leg_01_5/L_Leg_02_5/L_Leg_03_5/L_Leg_04_5/L_Leg_05_5
+        weight: 1
+      - path: shadows/5_2/rotation_02/ANIMATION_02/Pervis_10/R_Leg_01_5
+        weight: 1
+      - path: shadows/5_2/rotation_02/ANIMATION_02/Pervis_10/R_Leg_01_5/R_Leg_02_5
+        weight: 1
+      - path: shadows/5_2/rotation_02/ANIMATION_02/Pervis_10/R_Leg_01_5/R_Leg_02_5/R_Leg_03_5
+        weight: 1
+      - path: shadows/5_2/rotation_02/ANIMATION_02/Pervis_10/R_Leg_01_5/R_Leg_02_5/R_Leg_03_5/R_Leg_04_5
+        weight: 1
+      - path: shadows/5_2/rotation_02/ANIMATION_02/Pervis_10/R_Leg_01_5/R_Leg_02_5/R_Leg_03_5/R_Leg_04_5/R_Leg_05_5
+        weight: 1
+      - path: shadows/5_2/rotation_02/ANIMATION_02/Pervis_10/Spine_01_5
+        weight: 1
+      - path: shadows/5_2/rotation_02/ANIMATION_02/Pervis_10/Spine_01_5/Spine_02_5
+        weight: 1
+      - path: shadows/5_2/rotation_02/ANIMATION_02/Pervis_10/Spine_01_5/Spine_02_5/L_Arm_01_5
+        weight: 1
+      - path: shadows/5_2/rotation_02/ANIMATION_02/Pervis_10/Spine_01_5/Spine_02_5/L_Arm_01_5/L_Arm_02_5
+        weight: 1
+      - path: shadows/5_2/rotation_02/ANIMATION_02/Pervis_10/Spine_01_5/Spine_02_5/L_Arm_01_5/L_Arm_02_5/L_Arm_03_5
+        weight: 1
+      - path: shadows/5_2/rotation_02/ANIMATION_02/Pervis_10/Spine_01_5/Spine_02_5/L_Arm_01_5/L_Arm_02_5/L_Arm_03_5/L_Arm_04_5
+        weight: 1
+      - path: shadows/5_2/rotation_02/ANIMATION_02/Pervis_10/Spine_01_5/Spine_02_5/L_Arm_01_5/L_Arm_02_5/L_Arm_03_5/L_Arm_04_5/L_Arm_05_5
+        weight: 1
+      - path: shadows/5_2/rotation_02/ANIMATION_02/Pervis_10/Spine_01_5/Spine_02_5/R_Arm_01_5
+        weight: 1
+      - path: shadows/5_2/rotation_02/ANIMATION_02/Pervis_10/Spine_01_5/Spine_02_5/R_Arm_01_5/R_Arm_02_5
+        weight: 1
+      - path: shadows/5_2/rotation_02/ANIMATION_02/Pervis_10/Spine_01_5/Spine_02_5/R_Arm_01_5/R_Arm_02_5/R_Arm_03_5
+        weight: 1
+      - path: shadows/5_2/rotation_02/ANIMATION_02/Pervis_10/Spine_01_5/Spine_02_5/R_Arm_01_5/R_Arm_02_5/R_Arm_03_5/R_Arm_04_5
+        weight: 1
+      - path: shadows/5_2/rotation_02/ANIMATION_02/Pervis_10/Spine_01_5/Spine_02_5/R_Arm_01_5/R_Arm_02_5/R_Arm_03_5/R_Arm_04_5/R_Arm_05_5
+        weight: 1
+      - path: shadows/5_2/rotation_02/ANIMATION_02/Pervis_10/Spine_01_5/Spine_02_5/Spine_03_5
+        weight: 1
+      - path: shadows/5_2/rotation_02/ANIMATION_02/Pervis_10/Spine_01_5/Spine_02_5/Spine_03_5/Spine_04_5
+        weight: 1
+      - path: shadows/5_2/rotation_02/ANIMATION_02/Pervis_10/Spine_01_5/Spine_02_5/Spine_03_5/Spine_04_5/Spine_05_5
+        weight: 1
+      - path: shadows/5_2/rotation_02/ANIMATION_02/Subdivision_Surface_5
+        weight: 1
+      - path: shadows/5_2/rotation_02/ANIMATION_02/Subdivision_Surface_5/Plane_5
+        weight: 1
+      - path: shadows/6_3
+        weight: 1
+      - path: shadows/6_3/rotation_03
+        weight: 1
+      - path: shadows/6_3/rotation_03/ANIMATION_03
+        weight: 1
+      - path: shadows/6_3/rotation_03/ANIMATION_03/Pervis_11
+        weight: 1
+      - path: shadows/6_3/rotation_03/ANIMATION_03/Pervis_11/Head_6
+        weight: 1
+      - path: shadows/6_3/rotation_03/ANIMATION_03/Pervis_11/L_Arm_6
+        weight: 1
+      - path: shadows/6_3/rotation_03/ANIMATION_03/Pervis_11/L_Arm_Pole_6
+        weight: 1
+      - path: shadows/6_3/rotation_03/ANIMATION_03/Pervis_11/L_Leg_6
+        weight: 1
+      - path: shadows/6_3/rotation_03/ANIMATION_03/Pervis_11/L_Leg_Pole_6
+        weight: 1
+      - path: shadows/6_3/rotation_03/ANIMATION_03/Pervis_11/R_Arm_6
+        weight: 1
+      - path: shadows/6_3/rotation_03/ANIMATION_03/Pervis_11/R_Arm_Pole_6
+        weight: 1
+      - path: shadows/6_3/rotation_03/ANIMATION_03/Pervis_11/R_Leg_6
+        weight: 1
+      - path: shadows/6_3/rotation_03/ANIMATION_03/Pervis_11/R_Leg_Pole_6
+        weight: 1
+      - path: shadows/6_3/rotation_03/ANIMATION_03/Pervis_12
+        weight: 1
+      - path: shadows/6_3/rotation_03/ANIMATION_03/Pervis_12/L_Leg_01_6
+        weight: 1
+      - path: shadows/6_3/rotation_03/ANIMATION_03/Pervis_12/L_Leg_01_6/L_Leg_02_6
+        weight: 1
+      - path: shadows/6_3/rotation_03/ANIMATION_03/Pervis_12/L_Leg_01_6/L_Leg_02_6/L_Leg_03_6
+        weight: 1
+      - path: shadows/6_3/rotation_03/ANIMATION_03/Pervis_12/L_Leg_01_6/L_Leg_02_6/L_Leg_03_6/L_Leg_04_6
+        weight: 1
+      - path: shadows/6_3/rotation_03/ANIMATION_03/Pervis_12/L_Leg_01_6/L_Leg_02_6/L_Leg_03_6/L_Leg_04_6/L_Leg_05_6
+        weight: 1
+      - path: shadows/6_3/rotation_03/ANIMATION_03/Pervis_12/R_Leg_01_6
+        weight: 1
+      - path: shadows/6_3/rotation_03/ANIMATION_03/Pervis_12/R_Leg_01_6/R_Leg_02_6
+        weight: 1
+      - path: shadows/6_3/rotation_03/ANIMATION_03/Pervis_12/R_Leg_01_6/R_Leg_02_6/R_Leg_03_6
+        weight: 1
+      - path: shadows/6_3/rotation_03/ANIMATION_03/Pervis_12/R_Leg_01_6/R_Leg_02_6/R_Leg_03_6/R_Leg_04_6
+        weight: 1
+      - path: shadows/6_3/rotation_03/ANIMATION_03/Pervis_12/R_Leg_01_6/R_Leg_02_6/R_Leg_03_6/R_Leg_04_6/R_Leg_05_6
+        weight: 1
+      - path: shadows/6_3/rotation_03/ANIMATION_03/Pervis_12/Spine_01_6
+        weight: 1
+      - path: shadows/6_3/rotation_03/ANIMATION_03/Pervis_12/Spine_01_6/Spine_02_6
+        weight: 1
+      - path: shadows/6_3/rotation_03/ANIMATION_03/Pervis_12/Spine_01_6/Spine_02_6/L_Arm_01_6
+        weight: 1
+      - path: shadows/6_3/rotation_03/ANIMATION_03/Pervis_12/Spine_01_6/Spine_02_6/L_Arm_01_6/L_Arm_02_6
+        weight: 1
+      - path: shadows/6_3/rotation_03/ANIMATION_03/Pervis_12/Spine_01_6/Spine_02_6/L_Arm_01_6/L_Arm_02_6/L_Arm_03_6
+        weight: 1
+      - path: shadows/6_3/rotation_03/ANIMATION_03/Pervis_12/Spine_01_6/Spine_02_6/L_Arm_01_6/L_Arm_02_6/L_Arm_03_6/L_Arm_04_6
+        weight: 1
+      - path: shadows/6_3/rotation_03/ANIMATION_03/Pervis_12/Spine_01_6/Spine_02_6/L_Arm_01_6/L_Arm_02_6/L_Arm_03_6/L_Arm_04_6/L_Arm_05_6
+        weight: 1
+      - path: shadows/6_3/rotation_03/ANIMATION_03/Pervis_12/Spine_01_6/Spine_02_6/R_Arm_01_6
+        weight: 1
+      - path: shadows/6_3/rotation_03/ANIMATION_03/Pervis_12/Spine_01_6/Spine_02_6/R_Arm_01_6/R_Arm_02_6
+        weight: 1
+      - path: shadows/6_3/rotation_03/ANIMATION_03/Pervis_12/Spine_01_6/Spine_02_6/R_Arm_01_6/R_Arm_02_6/R_Arm_03_6
+        weight: 1
+      - path: shadows/6_3/rotation_03/ANIMATION_03/Pervis_12/Spine_01_6/Spine_02_6/R_Arm_01_6/R_Arm_02_6/R_Arm_03_6/R_Arm_04_6
+        weight: 1
+      - path: shadows/6_3/rotation_03/ANIMATION_03/Pervis_12/Spine_01_6/Spine_02_6/R_Arm_01_6/R_Arm_02_6/R_Arm_03_6/R_Arm_04_6/R_Arm_05_6
+        weight: 1
+      - path: shadows/6_3/rotation_03/ANIMATION_03/Pervis_12/Spine_01_6/Spine_02_6/Spine_03_6
+        weight: 1
+      - path: shadows/6_3/rotation_03/ANIMATION_03/Pervis_12/Spine_01_6/Spine_02_6/Spine_03_6/Spine_04_6
+        weight: 1
+      - path: shadows/6_3/rotation_03/ANIMATION_03/Pervis_12/Spine_01_6/Spine_02_6/Spine_03_6/Spine_04_6/Spine_05_6
+        weight: 1
+      - path: shadows/6_3/rotation_03/ANIMATION_03/Subdivision_Surface_6
+        weight: 1
+      - path: shadows/6_3/rotation_03/ANIMATION_03/Subdivision_Surface_6/Plane_6
+        weight: 1
+      - path: shadows/7_1
+        weight: 1
+      - path: shadows/7_1/rotation_01_2
+        weight: 1
+      - path: shadows/7_1/rotation_01_2/ANIMATION_01_2
+        weight: 1
+      - path: shadows/7_1/rotation_01_2/ANIMATION_01_2/Pervis_13
+        weight: 1
+      - path: shadows/7_1/rotation_01_2/ANIMATION_01_2/Pervis_13/Head_7
+        weight: 1
+      - path: shadows/7_1/rotation_01_2/ANIMATION_01_2/Pervis_13/L_Arm_7
+        weight: 1
+      - path: shadows/7_1/rotation_01_2/ANIMATION_01_2/Pervis_13/L_Arm_Pole_7
+        weight: 1
+      - path: shadows/7_1/rotation_01_2/ANIMATION_01_2/Pervis_13/L_Leg_7
+        weight: 1
+      - path: shadows/7_1/rotation_01_2/ANIMATION_01_2/Pervis_13/L_Leg_Pole_7
+        weight: 1
+      - path: shadows/7_1/rotation_01_2/ANIMATION_01_2/Pervis_13/R_Arm_7
+        weight: 1
+      - path: shadows/7_1/rotation_01_2/ANIMATION_01_2/Pervis_13/R_Arm_Pole_7
+        weight: 1
+      - path: shadows/7_1/rotation_01_2/ANIMATION_01_2/Pervis_13/R_Leg_7
+        weight: 1
+      - path: shadows/7_1/rotation_01_2/ANIMATION_01_2/Pervis_13/R_Leg_Pole_7
+        weight: 1
+      - path: shadows/7_1/rotation_01_2/ANIMATION_01_2/Pervis_14
+        weight: 1
+      - path: shadows/7_1/rotation_01_2/ANIMATION_01_2/Pervis_14/L_Leg_01_7
+        weight: 1
+      - path: shadows/7_1/rotation_01_2/ANIMATION_01_2/Pervis_14/L_Leg_01_7/L_Leg_02_7
+        weight: 1
+      - path: shadows/7_1/rotation_01_2/ANIMATION_01_2/Pervis_14/L_Leg_01_7/L_Leg_02_7/L_Leg_03_7
+        weight: 1
+      - path: shadows/7_1/rotation_01_2/ANIMATION_01_2/Pervis_14/L_Leg_01_7/L_Leg_02_7/L_Leg_03_7/L_Leg_04_7
+        weight: 1
+      - path: shadows/7_1/rotation_01_2/ANIMATION_01_2/Pervis_14/L_Leg_01_7/L_Leg_02_7/L_Leg_03_7/L_Leg_04_7/L_Leg_05_7
+        weight: 1
+      - path: shadows/7_1/rotation_01_2/ANIMATION_01_2/Pervis_14/R_Leg_01_7
+        weight: 1
+      - path: shadows/7_1/rotation_01_2/ANIMATION_01_2/Pervis_14/R_Leg_01_7/R_Leg_02_7
+        weight: 1
+      - path: shadows/7_1/rotation_01_2/ANIMATION_01_2/Pervis_14/R_Leg_01_7/R_Leg_02_7/R_Leg_03_7
+        weight: 1
+      - path: shadows/7_1/rotation_01_2/ANIMATION_01_2/Pervis_14/R_Leg_01_7/R_Leg_02_7/R_Leg_03_7/R_Leg_04_7
+        weight: 1
+      - path: shadows/7_1/rotation_01_2/ANIMATION_01_2/Pervis_14/R_Leg_01_7/R_Leg_02_7/R_Leg_03_7/R_Leg_04_7/R_Leg_05_7
+        weight: 1
+      - path: shadows/7_1/rotation_01_2/ANIMATION_01_2/Pervis_14/Spine_01_7
+        weight: 1
+      - path: shadows/7_1/rotation_01_2/ANIMATION_01_2/Pervis_14/Spine_01_7/Spine_02_7
+        weight: 1
+      - path: shadows/7_1/rotation_01_2/ANIMATION_01_2/Pervis_14/Spine_01_7/Spine_02_7/L_Arm_01_7
+        weight: 1
+      - path: shadows/7_1/rotation_01_2/ANIMATION_01_2/Pervis_14/Spine_01_7/Spine_02_7/L_Arm_01_7/L_Arm_02_7
+        weight: 1
+      - path: shadows/7_1/rotation_01_2/ANIMATION_01_2/Pervis_14/Spine_01_7/Spine_02_7/L_Arm_01_7/L_Arm_02_7/L_Arm_03_7
+        weight: 1
+      - path: shadows/7_1/rotation_01_2/ANIMATION_01_2/Pervis_14/Spine_01_7/Spine_02_7/L_Arm_01_7/L_Arm_02_7/L_Arm_03_7/L_Arm_04_7
+        weight: 1
+      - path: shadows/7_1/rotation_01_2/ANIMATION_01_2/Pervis_14/Spine_01_7/Spine_02_7/L_Arm_01_7/L_Arm_02_7/L_Arm_03_7/L_Arm_04_7/L_Arm_05_7
+        weight: 1
+      - path: shadows/7_1/rotation_01_2/ANIMATION_01_2/Pervis_14/Spine_01_7/Spine_02_7/R_Arm_01_7
+        weight: 1
+      - path: shadows/7_1/rotation_01_2/ANIMATION_01_2/Pervis_14/Spine_01_7/Spine_02_7/R_Arm_01_7/R_Arm_02_7
+        weight: 1
+      - path: shadows/7_1/rotation_01_2/ANIMATION_01_2/Pervis_14/Spine_01_7/Spine_02_7/R_Arm_01_7/R_Arm_02_7/R_Arm_03_7
+        weight: 1
+      - path: shadows/7_1/rotation_01_2/ANIMATION_01_2/Pervis_14/Spine_01_7/Spine_02_7/R_Arm_01_7/R_Arm_02_7/R_Arm_03_7/R_Arm_04_7
+        weight: 1
+      - path: shadows/7_1/rotation_01_2/ANIMATION_01_2/Pervis_14/Spine_01_7/Spine_02_7/R_Arm_01_7/R_Arm_02_7/R_Arm_03_7/R_Arm_04_7/R_Arm_05_7
+        weight: 1
+      - path: shadows/7_1/rotation_01_2/ANIMATION_01_2/Pervis_14/Spine_01_7/Spine_02_7/Spine_03_7
+        weight: 1
+      - path: shadows/7_1/rotation_01_2/ANIMATION_01_2/Pervis_14/Spine_01_7/Spine_02_7/Spine_03_7/Spine_04_7
+        weight: 1
+      - path: shadows/7_1/rotation_01_2/ANIMATION_01_2/Pervis_14/Spine_01_7/Spine_02_7/Spine_03_7/Spine_04_7/Spine_05_7
+        weight: 1
+      - path: shadows/7_1/rotation_01_2/ANIMATION_01_2/Subdivision_Surface_7
+        weight: 1
+      - path: shadows/7_1/rotation_01_2/ANIMATION_01_2/Subdivision_Surface_7/Plane_7
+        weight: 1
+      - path: shadows/8_2
+        weight: 1
+      - path: shadows/8_2/rotation_02_2
+        weight: 1
+      - path: shadows/8_2/rotation_02_2/ANIMATION_02_2
+        weight: 1
+      - path: shadows/8_2/rotation_02_2/ANIMATION_02_2/Pervis_15
+        weight: 1
+      - path: shadows/8_2/rotation_02_2/ANIMATION_02_2/Pervis_15/Head_8
+        weight: 1
+      - path: shadows/8_2/rotation_02_2/ANIMATION_02_2/Pervis_15/L_Arm_8
+        weight: 1
+      - path: shadows/8_2/rotation_02_2/ANIMATION_02_2/Pervis_15/L_Arm_Pole_8
+        weight: 1
+      - path: shadows/8_2/rotation_02_2/ANIMATION_02_2/Pervis_15/L_Leg_8
+        weight: 1
+      - path: shadows/8_2/rotation_02_2/ANIMATION_02_2/Pervis_15/L_Leg_Pole_8
+        weight: 1
+      - path: shadows/8_2/rotation_02_2/ANIMATION_02_2/Pervis_15/R_Arm_8
+        weight: 1
+      - path: shadows/8_2/rotation_02_2/ANIMATION_02_2/Pervis_15/R_Arm_Pole_8
+        weight: 1
+      - path: shadows/8_2/rotation_02_2/ANIMATION_02_2/Pervis_15/R_Leg_8
+        weight: 1
+      - path: shadows/8_2/rotation_02_2/ANIMATION_02_2/Pervis_15/R_Leg_Pole_8
+        weight: 1
+      - path: shadows/8_2/rotation_02_2/ANIMATION_02_2/Pervis_16
+        weight: 1
+      - path: shadows/8_2/rotation_02_2/ANIMATION_02_2/Pervis_16/L_Leg_01_8
+        weight: 1
+      - path: shadows/8_2/rotation_02_2/ANIMATION_02_2/Pervis_16/L_Leg_01_8/L_Leg_02_8
+        weight: 1
+      - path: shadows/8_2/rotation_02_2/ANIMATION_02_2/Pervis_16/L_Leg_01_8/L_Leg_02_8/L_Leg_03_8
+        weight: 1
+      - path: shadows/8_2/rotation_02_2/ANIMATION_02_2/Pervis_16/L_Leg_01_8/L_Leg_02_8/L_Leg_03_8/L_Leg_04_8
+        weight: 1
+      - path: shadows/8_2/rotation_02_2/ANIMATION_02_2/Pervis_16/L_Leg_01_8/L_Leg_02_8/L_Leg_03_8/L_Leg_04_8/L_Leg_05_8
+        weight: 1
+      - path: shadows/8_2/rotation_02_2/ANIMATION_02_2/Pervis_16/R_Leg_01_8
+        weight: 1
+      - path: shadows/8_2/rotation_02_2/ANIMATION_02_2/Pervis_16/R_Leg_01_8/R_Leg_02_8
+        weight: 1
+      - path: shadows/8_2/rotation_02_2/ANIMATION_02_2/Pervis_16/R_Leg_01_8/R_Leg_02_8/R_Leg_03_8
+        weight: 1
+      - path: shadows/8_2/rotation_02_2/ANIMATION_02_2/Pervis_16/R_Leg_01_8/R_Leg_02_8/R_Leg_03_8/R_Leg_04_8
+        weight: 1
+      - path: shadows/8_2/rotation_02_2/ANIMATION_02_2/Pervis_16/R_Leg_01_8/R_Leg_02_8/R_Leg_03_8/R_Leg_04_8/R_Leg_05_8
+        weight: 1
+      - path: shadows/8_2/rotation_02_2/ANIMATION_02_2/Pervis_16/Spine_01_8
+        weight: 1
+      - path: shadows/8_2/rotation_02_2/ANIMATION_02_2/Pervis_16/Spine_01_8/Spine_02_8
+        weight: 1
+      - path: shadows/8_2/rotation_02_2/ANIMATION_02_2/Pervis_16/Spine_01_8/Spine_02_8/L_Arm_01_8
+        weight: 1
+      - path: shadows/8_2/rotation_02_2/ANIMATION_02_2/Pervis_16/Spine_01_8/Spine_02_8/L_Arm_01_8/L_Arm_02_8
+        weight: 1
+      - path: shadows/8_2/rotation_02_2/ANIMATION_02_2/Pervis_16/Spine_01_8/Spine_02_8/L_Arm_01_8/L_Arm_02_8/L_Arm_03_8
+        weight: 1
+      - path: shadows/8_2/rotation_02_2/ANIMATION_02_2/Pervis_16/Spine_01_8/Spine_02_8/L_Arm_01_8/L_Arm_02_8/L_Arm_03_8/L_Arm_04_8
+        weight: 1
+      - path: shadows/8_2/rotation_02_2/ANIMATION_02_2/Pervis_16/Spine_01_8/Spine_02_8/L_Arm_01_8/L_Arm_02_8/L_Arm_03_8/L_Arm_04_8/L_Arm_05_8
+        weight: 1
+      - path: shadows/8_2/rotation_02_2/ANIMATION_02_2/Pervis_16/Spine_01_8/Spine_02_8/R_Arm_01_8
+        weight: 1
+      - path: shadows/8_2/rotation_02_2/ANIMATION_02_2/Pervis_16/Spine_01_8/Spine_02_8/R_Arm_01_8/R_Arm_02_8
+        weight: 1
+      - path: shadows/8_2/rotation_02_2/ANIMATION_02_2/Pervis_16/Spine_01_8/Spine_02_8/R_Arm_01_8/R_Arm_02_8/R_Arm_03_8
+        weight: 1
+      - path: shadows/8_2/rotation_02_2/ANIMATION_02_2/Pervis_16/Spine_01_8/Spine_02_8/R_Arm_01_8/R_Arm_02_8/R_Arm_03_8/R_Arm_04_8
+        weight: 1
+      - path: shadows/8_2/rotation_02_2/ANIMATION_02_2/Pervis_16/Spine_01_8/Spine_02_8/R_Arm_01_8/R_Arm_02_8/R_Arm_03_8/R_Arm_04_8/R_Arm_05_8
+        weight: 1
+      - path: shadows/8_2/rotation_02_2/ANIMATION_02_2/Pervis_16/Spine_01_8/Spine_02_8/Spine_03_8
+        weight: 1
+      - path: shadows/8_2/rotation_02_2/ANIMATION_02_2/Pervis_16/Spine_01_8/Spine_02_8/Spine_03_8/Spine_04_8
+        weight: 1
+      - path: shadows/8_2/rotation_02_2/ANIMATION_02_2/Pervis_16/Spine_01_8/Spine_02_8/Spine_03_8/Spine_04_8/Spine_05_8
+        weight: 1
+      - path: shadows/8_2/rotation_02_2/ANIMATION_02_2/Subdivision_Surface_8
+        weight: 1
+      - path: shadows/8_2/rotation_02_2/ANIMATION_02_2/Subdivision_Surface_8/Plane_8
+        weight: 1
+      - path: shadows/9_3
+        weight: 1
+      - path: shadows/9_3/rotation_03_2
+        weight: 1
+      - path: shadows/9_3/rotation_03_2/ANIMATION_03_2
+        weight: 1
+      - path: shadows/9_3/rotation_03_2/ANIMATION_03_2/Pervis_17
+        weight: 1
+      - path: shadows/9_3/rotation_03_2/ANIMATION_03_2/Pervis_17/Head_9
+        weight: 1
+      - path: shadows/9_3/rotation_03_2/ANIMATION_03_2/Pervis_17/L_Arm_9
+        weight: 1
+      - path: shadows/9_3/rotation_03_2/ANIMATION_03_2/Pervis_17/L_Arm_Pole_9
+        weight: 1
+      - path: shadows/9_3/rotation_03_2/ANIMATION_03_2/Pervis_17/L_Leg_9
+        weight: 1
+      - path: shadows/9_3/rotation_03_2/ANIMATION_03_2/Pervis_17/L_Leg_Pole_9
+        weight: 1
+      - path: shadows/9_3/rotation_03_2/ANIMATION_03_2/Pervis_17/R_Arm_9
+        weight: 1
+      - path: shadows/9_3/rotation_03_2/ANIMATION_03_2/Pervis_17/R_Arm_Pole_9
+        weight: 1
+      - path: shadows/9_3/rotation_03_2/ANIMATION_03_2/Pervis_17/R_Leg_9
+        weight: 1
+      - path: shadows/9_3/rotation_03_2/ANIMATION_03_2/Pervis_17/R_Leg_Pole_9
+        weight: 1
+      - path: shadows/9_3/rotation_03_2/ANIMATION_03_2/Pervis_18
+        weight: 1
+      - path: shadows/9_3/rotation_03_2/ANIMATION_03_2/Pervis_18/L_Leg_01_9
+        weight: 1
+      - path: shadows/9_3/rotation_03_2/ANIMATION_03_2/Pervis_18/L_Leg_01_9/L_Leg_02_9
+        weight: 1
+      - path: shadows/9_3/rotation_03_2/ANIMATION_03_2/Pervis_18/L_Leg_01_9/L_Leg_02_9/L_Leg_03_9
+        weight: 1
+      - path: shadows/9_3/rotation_03_2/ANIMATION_03_2/Pervis_18/L_Leg_01_9/L_Leg_02_9/L_Leg_03_9/L_Leg_04_9
+        weight: 1
+      - path: shadows/9_3/rotation_03_2/ANIMATION_03_2/Pervis_18/L_Leg_01_9/L_Leg_02_9/L_Leg_03_9/L_Leg_04_9/L_Leg_05_9
+        weight: 1
+      - path: shadows/9_3/rotation_03_2/ANIMATION_03_2/Pervis_18/R_Leg_01_9
+        weight: 1
+      - path: shadows/9_3/rotation_03_2/ANIMATION_03_2/Pervis_18/R_Leg_01_9/R_Leg_02_9
+        weight: 1
+      - path: shadows/9_3/rotation_03_2/ANIMATION_03_2/Pervis_18/R_Leg_01_9/R_Leg_02_9/R_Leg_03_9
+        weight: 1
+      - path: shadows/9_3/rotation_03_2/ANIMATION_03_2/Pervis_18/R_Leg_01_9/R_Leg_02_9/R_Leg_03_9/R_Leg_04_9
+        weight: 1
+      - path: shadows/9_3/rotation_03_2/ANIMATION_03_2/Pervis_18/R_Leg_01_9/R_Leg_02_9/R_Leg_03_9/R_Leg_04_9/R_Leg_05_9
+        weight: 1
+      - path: shadows/9_3/rotation_03_2/ANIMATION_03_2/Pervis_18/Spine_01_9
+        weight: 1
+      - path: shadows/9_3/rotation_03_2/ANIMATION_03_2/Pervis_18/Spine_01_9/Spine_02_9
+        weight: 1
+      - path: shadows/9_3/rotation_03_2/ANIMATION_03_2/Pervis_18/Spine_01_9/Spine_02_9/L_Arm_01_9
+        weight: 1
+      - path: shadows/9_3/rotation_03_2/ANIMATION_03_2/Pervis_18/Spine_01_9/Spine_02_9/L_Arm_01_9/L_Arm_02_9
+        weight: 1
+      - path: shadows/9_3/rotation_03_2/ANIMATION_03_2/Pervis_18/Spine_01_9/Spine_02_9/L_Arm_01_9/L_Arm_02_9/L_Arm_03_9
+        weight: 1
+      - path: shadows/9_3/rotation_03_2/ANIMATION_03_2/Pervis_18/Spine_01_9/Spine_02_9/L_Arm_01_9/L_Arm_02_9/L_Arm_03_9/L_Arm_04_9
+        weight: 1
+      - path: shadows/9_3/rotation_03_2/ANIMATION_03_2/Pervis_18/Spine_01_9/Spine_02_9/L_Arm_01_9/L_Arm_02_9/L_Arm_03_9/L_Arm_04_9/L_Arm_05_9
+        weight: 1
+      - path: shadows/9_3/rotation_03_2/ANIMATION_03_2/Pervis_18/Spine_01_9/Spine_02_9/R_Arm_01_9
+        weight: 1
+      - path: shadows/9_3/rotation_03_2/ANIMATION_03_2/Pervis_18/Spine_01_9/Spine_02_9/R_Arm_01_9/R_Arm_02_9
+        weight: 1
+      - path: shadows/9_3/rotation_03_2/ANIMATION_03_2/Pervis_18/Spine_01_9/Spine_02_9/R_Arm_01_9/R_Arm_02_9/R_Arm_03_9
+        weight: 1
+      - path: shadows/9_3/rotation_03_2/ANIMATION_03_2/Pervis_18/Spine_01_9/Spine_02_9/R_Arm_01_9/R_Arm_02_9/R_Arm_03_9/R_Arm_04_9
+        weight: 1
+      - path: shadows/9_3/rotation_03_2/ANIMATION_03_2/Pervis_18/Spine_01_9/Spine_02_9/R_Arm_01_9/R_Arm_02_9/R_Arm_03_9/R_Arm_04_9/R_Arm_05_9
+        weight: 1
+      - path: shadows/9_3/rotation_03_2/ANIMATION_03_2/Pervis_18/Spine_01_9/Spine_02_9/Spine_03_9
+        weight: 1
+      - path: shadows/9_3/rotation_03_2/ANIMATION_03_2/Pervis_18/Spine_01_9/Spine_02_9/Spine_03_9/Spine_04_9
+        weight: 1
+      - path: shadows/9_3/rotation_03_2/ANIMATION_03_2/Pervis_18/Spine_01_9/Spine_02_9/Spine_03_9/Spine_04_9/Spine_05_9
+        weight: 1
+      - path: shadows/9_3/rotation_03_2/ANIMATION_03_2/Subdivision_Surface_9
+        weight: 1
+      - path: shadows/9_3/rotation_03_2/ANIMATION_03_2/Subdivision_Surface_9/Plane_9
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
